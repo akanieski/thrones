@@ -2,10 +2,16 @@
 from __future__ import unicode_literals
 
 from django.shortcuts import render
-
+from django.contrib.auth.models import User
 from rest_framework import generics
+from rest_framework import viewsets
 from .serializers import LocationSerializer, LocationRatingSerializer
+from .serializers import UserSerializer
 from .models import Location, LocationRating
+from rest_framework.decorators import api_view
+from rest_framework.permissions import AllowAny, IsAdminUser
+from django.contrib.auth import get_user_model
+from rest_framework import viewsets
 
 
 class LocationsView(generics.ListCreateAPIView):
@@ -51,3 +57,14 @@ class LocationRatingDetailsView(generics.RetrieveUpdateDestroyAPIView):
 
     queryset = LocationRating.objects.all()
     serializer_class = LocationRatingSerializer
+
+
+class UserViewSet(viewsets.ModelViewSet):
+    queryset = get_user_model().objects
+    serializer_class = UserSerializer
+
+    def get_permissions(self):
+        if self.request.method == 'POST':
+            self.permission_classes = (AllowAny,)
+
+        return super(UserViewSet, self).get_permissions()
