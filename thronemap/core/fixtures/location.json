@@ -1,0 +1,6283 @@
+[{
+    "model": "core.location",
+    "pk": 1,
+    "fields": {
+        "latitude": "40.7902774",
+        "longitude": "-73.95453215",
+        "location_type": 3,
+        "name": "Robert Bendheim Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 2,
+    "fields": {
+        "latitude": "40.79410316",
+        "longitude": "-73.95182848",
+        "location_type": 3,
+        "name": "Conservatory Garden"
+    }
+}, {
+    "model": "core.location",
+    "pk": 3,
+    "fields": {
+        "latitude": "40.77383875",
+        "longitude": "-73.96663427",
+        "location_type": 3,
+        "name": "Model Boathouse (Kerbs) Cafe at Conservatory Water"
+    }
+}, {
+    "model": "core.location",
+    "pk": 4,
+    "fields": {
+        "latitude": "40.765826",
+        "longitude": "-73.96363",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 5,
+    "fields": {
+        "latitude": "40.7301979",
+        "longitude": "-73.9982307",
+        "location_type": 3,
+        "name": "Washington Square Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 6,
+    "fields": {
+        "latitude": "40.755057",
+        "longitude": "-73.968551",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 7,
+    "fields": {
+        "latitude": "40.761135",
+        "longitude": "-73.969274",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 8,
+    "fields": {
+        "latitude": "40.79632054",
+        "longitude": "-73.95442486",
+        "location_type": 3,
+        "name": "Lasker Skating Rink"
+    }
+}, {
+    "model": "core.location",
+    "pk": 9,
+    "fields": {
+        "latitude": "40.761136",
+        "longitude": "-73.969971",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 10,
+    "fields": {
+        "latitude": "40.756324",
+        "longitude": "-73.970562",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 11,
+    "fields": {
+        "latitude": "40.758887",
+        "longitude": "-73.970782",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 12,
+    "fields": {
+        "latitude": "40.74114027",
+        "longitude": "-74.00138497",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 13,
+    "fields": {
+        "latitude": "40.75056909",
+        "longitude": "-73.97694469",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 14,
+    "fields": {
+        "latitude": "40.77411093",
+        "longitude": "-73.98133278",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 15,
+    "fields": {
+        "latitude": "40.75231653",
+        "longitude": "-73.97782445",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 16,
+    "fields": {
+        "latitude": "40.77290844",
+        "longitude": "-73.97442341",
+        "location_type": 8,
+        "name": "Sheep Meadow Cafe at Mineral Springs"
+    }
+}, {
+    "model": "core.location",
+    "pk": 17,
+    "fields": {
+        "latitude": "40.757854",
+        "longitude": "-73.971214",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 18,
+    "fields": {
+        "latitude": "40.753956",
+        "longitude": "-73.971967",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 19,
+    "fields": {
+        "latitude": "40.756732",
+        "longitude": "-73.972351",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 20,
+    "fields": {
+        "latitude": "40.754968",
+        "longitude": "-73.973311",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 21,
+    "fields": {
+        "latitude": "40.761165",
+        "longitude": "-73.973333",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 22,
+    "fields": {
+        "latitude": "40.759625",
+        "longitude": "-73.973609",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 23,
+    "fields": {
+        "latitude": "40.751541",
+        "longitude": "-73.973723",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 24,
+    "fields": {
+        "latitude": "40.762416",
+        "longitude": "-73.974205",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 25,
+    "fields": {
+        "latitude": "40.7584",
+        "longitude": "-73.974579",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 26,
+    "fields": {
+        "latitude": "40.750121",
+        "longitude": "-73.974764",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 27,
+    "fields": {
+        "latitude": "40.753187",
+        "longitude": "-73.97494",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 28,
+    "fields": {
+        "latitude": "40.756147",
+        "longitude": "-73.975022",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 29,
+    "fields": {
+        "latitude": "40.751129",
+        "longitude": "-73.975644",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 30,
+    "fields": {
+        "latitude": "40.7692521",
+        "longitude": "-73.980968",
+        "location_type": 3,
+        "name": "Merchants Gate"
+    }
+}, {
+    "model": "core.location",
+    "pk": 31,
+    "fields": {
+        "latitude": "40.79105313",
+        "longitude": "-73.9595747",
+        "location_type": 3,
+        "name": "North Meadow Recreation Center"
+    }
+}, {
+    "model": "core.location",
+    "pk": 32,
+    "fields": {
+        "latitude": "40.72583184",
+        "longitude": "-73.99755478",
+        "location_type": 8,
+        "name": "Angelika Film Center"
+    }
+}, {
+    "model": "core.location",
+    "pk": 33,
+    "fields": {
+        "latitude": "40.77378594",
+        "longitude": "-73.97126913",
+        "location_type": 3,
+        "name": "Bethesda Terrace"
+    }
+}, {
+    "model": "core.location",
+    "pk": 34,
+    "fields": {
+        "latitude": "40.76828516",
+        "longitude": "-73.97199869",
+        "location_type": 3,
+        "name": "Central Park Zoo"
+    }
+}, {
+    "model": "core.location",
+    "pk": 35,
+    "fields": {
+        "latitude": "40.7430993",
+        "longitude": "-74.00035501",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 36,
+    "fields": {
+        "latitude": "40.75215398",
+        "longitude": "-73.97533536",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 37,
+    "fields": {
+        "latitude": "40.7565427",
+        "longitude": "-73.97410154",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 38,
+    "fields": {
+        "latitude": "40.75171509",
+        "longitude": "-73.99267316",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 39,
+    "fields": {
+        "latitude": "40.72765716",
+        "longitude": "-73.99955034",
+        "location_type": 8,
+        "name": "5 Guys"
+    }
+}, {
+    "model": "core.location",
+    "pk": 40,
+    "fields": {
+        "latitude": "40.79694188",
+        "longitude": "-73.95137787",
+        "location_type": 3,
+        "name": "Dana Discovery Center"
+    }
+}, {
+    "model": "core.location",
+    "pk": 41,
+    "fields": {
+        "latitude": "40.75384855",
+        "longitude": "-73.98416519",
+        "location_type": 3,
+        "name": "Bryant Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 42,
+    "fields": {
+        "latitude": "40.74415",
+        "longitude": "-73.983708",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 43,
+    "fields": {
+        "latitude": "40.754862",
+        "longitude": "-73.983944",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 44,
+    "fields": {
+        "latitude": "40.78934326",
+        "longitude": "-73.96187067",
+        "location_type": 3,
+        "name": "Tennis House"
+    }
+}, {
+    "model": "core.location",
+    "pk": 45,
+    "fields": {
+        "latitude": "40.77844133",
+        "longitude": "-73.96802902",
+        "location_type": 3,
+        "name": "Ramble Shed"
+    }
+}, {
+    "model": "core.location",
+    "pk": 46,
+    "fields": {
+        "latitude": "40.76755386",
+        "longitude": "-73.97265315",
+        "location_type": 3,
+        "name": "The Arsenal"
+    }
+}, {
+    "model": "core.location",
+    "pk": 47,
+    "fields": {
+        "latitude": "40.769399",
+        "longitude": "-73.9848",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 48,
+    "fields": {
+        "latitude": "40.759935",
+        "longitude": "-73.985017",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 49,
+    "fields": {
+        "latitude": "40.732141",
+        "longitude": "-73.99814487",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 50,
+    "fields": {
+        "latitude": "40.76218259",
+        "longitude": "-73.9863646",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 51,
+    "fields": {
+        "latitude": "40.77468779",
+        "longitude": "-73.95429611",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 52,
+    "fields": {
+        "latitude": "40.763717",
+        "longitude": "-73.98522",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 53,
+    "fields": {
+        "latitude": "40.747697",
+        "longitude": "-73.985264",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 54,
+    "fields": {
+        "latitude": "40.758295",
+        "longitude": "-73.985632",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 55,
+    "fields": {
+        "latitude": "40.755351",
+        "longitude": "-73.986403",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 56,
+    "fields": {
+        "latitude": "40.733802",
+        "longitude": "-73.986649",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 57,
+    "fields": {
+        "latitude": "40.74011",
+        "longitude": "-73.986655",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 58,
+    "fields": {
+        "latitude": "40.744999",
+        "longitude": "-73.986908",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 59,
+    "fields": {
+        "latitude": "40.762103",
+        "longitude": "-73.987265",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 60,
+    "fields": {
+        "latitude": "40.760431",
+        "longitude": "-73.987296",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 61,
+    "fields": {
+        "latitude": "40.752243",
+        "longitude": "-73.98735",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 62,
+    "fields": {
+        "latitude": "40.753658",
+        "longitude": "-73.988528",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 63,
+    "fields": {
+        "latitude": "40.758038",
+        "longitude": "-73.989046",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 64,
+    "fields": {
+        "latitude": "40.748077",
+        "longitude": "-73.989198",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 65,
+    "fields": {
+        "latitude": "40.734966",
+        "longitude": "-73.989901",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 66,
+    "fields": {
+        "latitude": "40.719304",
+        "longitude": "-73.989938",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 67,
+    "fields": {
+        "latitude": "40.729777",
+        "longitude": "-73.990128",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 68,
+    "fields": {
+        "latitude": "40.761628",
+        "longitude": "-73.990137",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 69,
+    "fields": {
+        "latitude": "40.751837",
+        "longitude": "-73.990171",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 70,
+    "fields": {
+        "latitude": "40.736751",
+        "longitude": "-73.990749",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 71,
+    "fields": {
+        "latitude": "40.755347",
+        "longitude": "-73.991007",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 72,
+    "fields": {
+        "latitude": "40.744858",
+        "longitude": "-73.991216",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 73,
+    "fields": {
+        "latitude": "40.748831",
+        "longitude": "-73.992238",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 74,
+    "fields": {
+        "latitude": "40.758823",
+        "longitude": "-73.992503",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 75,
+    "fields": {
+        "latitude": "40.751705",
+        "longitude": "-73.992665",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 76,
+    "fields": {
+        "latitude": "40.741851",
+        "longitude": "-73.993412",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 77,
+    "fields": {
+        "latitude": "40.760405",
+        "longitude": "-73.996972",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 78,
+    "fields": {
+        "latitude": "40.736692",
+        "longitude": "-73.997164",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 79,
+    "fields": {
+        "latitude": "40.745196",
+        "longitude": "-73.998724",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 80,
+    "fields": {
+        "latitude": "40.753483",
+        "longitude": "-73.998819",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 81,
+    "fields": {
+        "latitude": "40.732949",
+        "longitude": "-73.999885",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 82,
+    "fields": {
+        "latitude": "40.737338",
+        "longitude": "-74.00171",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 83,
+    "fields": {
+        "latitude": "40.76397035",
+        "longitude": "-73.97236347",
+        "location_type": 8,
+        "name": "Fao Schwarz"
+    }
+}, {
+    "model": "core.location",
+    "pk": 84,
+    "fields": {
+        "latitude": "40.756571",
+        "longitude": "-74.003475",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 85,
+    "fields": {
+        "latitude": "40.741895",
+        "longitude": "-74.00454",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 86,
+    "fields": {
+        "latitude": "40.702658",
+        "longitude": "-74.011283",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 87,
+    "fields": {
+        "latitude": "40.703725",
+        "longitude": "-74.013753",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 88,
+    "fields": {
+        "latitude": "40.772464",
+        "longitude": "-73.951218",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 89,
+    "fields": {
+        "latitude": "40.79719772",
+        "longitude": "-73.95899534",
+        "location_type": 3,
+        "name": "Great Hill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 90,
+    "fields": {
+        "latitude": "40.73180767",
+        "longitude": "-73.99531245",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 91,
+    "fields": {
+        "latitude": "40.72610015",
+        "longitude": "-74.00559068",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 92,
+    "fields": {
+        "latitude": "40.77402156",
+        "longitude": "-73.95941377",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 93,
+    "fields": {
+        "latitude": "40.75701406",
+        "longitude": "-73.98241639",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 94,
+    "fields": {
+        "latitude": "40.769943",
+        "longitude": "-73.954596",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 95,
+    "fields": {
+        "latitude": "40.77533371",
+        "longitude": "-73.96882296",
+        "location_type": 8,
+        "name": "Loeb Boathouse"
+    }
+}, {
+    "model": "core.location",
+    "pk": 96,
+    "fields": {
+        "latitude": "40.771248",
+        "longitude": "-73.959678",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 97,
+    "fields": {
+        "latitude": "40.760255",
+        "longitude": "-73.961344",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 98,
+    "fields": {
+        "latitude": "40.712368",
+        "longitude": "-74.007972",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 99,
+    "fields": {
+        "latitude": "40.713054",
+        "longitude": "-74.009584",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 100,
+    "fields": {
+        "latitude": "40.711736",
+        "longitude": "-74.007287",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 101,
+    "fields": {
+        "latitude": "40.710458",
+        "longitude": "-74.009601",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 102,
+    "fields": {
+        "latitude": "40.709669",
+        "longitude": "-74.010274",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 103,
+    "fields": {
+        "latitude": "40.708412",
+        "longitude": "-74.007394",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 104,
+    "fields": {
+        "latitude": "40.708793",
+        "longitude": "-74.009402",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 105,
+    "fields": {
+        "latitude": "40.714135",
+        "longitude": "-74.015142",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 106,
+    "fields": {
+        "latitude": "40.708684",
+        "longitude": "-74.0111",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 107,
+    "fields": {
+        "latitude": "40.706478",
+        "longitude": "-74.009904",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 108,
+    "fields": {
+        "latitude": "40.706021",
+        "longitude": "-74.00714",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 109,
+    "fields": {
+        "latitude": "40.705232",
+        "longitude": "-74.011378",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 110,
+    "fields": {
+        "latitude": "40.704753",
+        "longitude": "-74.013166",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 111,
+    "fields": {
+        "latitude": "40.754397",
+        "longitude": "-73.976339",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 112,
+    "fields": {
+        "latitude": "40.75637",
+        "longitude": "-73.976831",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 113,
+    "fields": {
+        "latitude": "40.74368",
+        "longitude": "-73.976848",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 114,
+    "fields": {
+        "latitude": "40.779822",
+        "longitude": "-73.976871",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 115,
+    "fields": {
+        "latitude": "40.779981",
+        "longitude": "-73.977075",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 116,
+    "fields": {
+        "latitude": "40.763665",
+        "longitude": "-73.977495",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 117,
+    "fields": {
+        "latitude": "40.751533",
+        "longitude": "-73.97778",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 118,
+    "fields": {
+        "latitude": "40.763791",
+        "longitude": "-73.978371",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 119,
+    "fields": {
+        "latitude": "40.764727",
+        "longitude": "-73.978477",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 120,
+    "fields": {
+        "latitude": "40.753666",
+        "longitude": "-73.978487",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 121,
+    "fields": {
+        "latitude": "40.762698",
+        "longitude": "-73.978543",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 122,
+    "fields": {
+        "latitude": "40.756425",
+        "longitude": "-73.978581",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 123,
+    "fields": {
+        "latitude": "40.761789",
+        "longitude": "-73.978886",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 124,
+    "fields": {
+        "latitude": "40.753456",
+        "longitude": "-73.978962",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 125,
+    "fields": {
+        "latitude": "40.750619",
+        "longitude": "-73.979049",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 126,
+    "fields": {
+        "latitude": "40.758671",
+        "longitude": "-73.979061",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 127,
+    "fields": {
+        "latitude": "40.755217",
+        "longitude": "-73.979464",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 128,
+    "fields": {
+        "latitude": "40.76825266",
+        "longitude": "-73.97719145",
+        "location_type": 3,
+        "name": "Heckscher House"
+    }
+}, {
+    "model": "core.location",
+    "pk": 129,
+    "fields": {
+        "latitude": "40.760932",
+        "longitude": "-73.979508",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 130,
+    "fields": {
+        "latitude": "40.751916",
+        "longitude": "-73.979773",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 131,
+    "fields": {
+        "latitude": "40.764588",
+        "longitude": "-73.98088",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 132,
+    "fields": {
+        "latitude": "40.73309",
+        "longitude": "-73.980905",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 133,
+    "fields": {
+        "latitude": "40.76771637",
+        "longitude": "-73.97178411",
+        "location_type": 3,
+        "name": "Wollman Skating Rink"
+    }
+}, {
+    "model": "core.location",
+    "pk": 134,
+    "fields": {
+        "latitude": "40.781106",
+        "longitude": "-73.981034",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 135,
+    "fields": {
+        "latitude": "40.78001743",
+        "longitude": "-73.9688766",
+        "location_type": 3,
+        "name": "Delacorte Theatre"
+    }
+}, {
+    "model": "core.location",
+    "pk": 136,
+    "fields": {
+        "latitude": "40.761699",
+        "longitude": "-73.981165",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 137,
+    "fields": {
+        "latitude": "40.74796817",
+        "longitude": "-73.987813",
+        "location_type": 8,
+        "name": "Standford Hotel"
+    }
+}, {
+    "model": "core.location",
+    "pk": 138,
+    "fields": {
+        "latitude": "40.75873695",
+        "longitude": "-73.97910118",
+        "location_type": 3,
+        "name": "Rockfeller Center Lower Floor"
+    }
+}, {
+    "model": "core.location",
+    "pk": 139,
+    "fields": {
+        "latitude": "40.74392028",
+        "longitude": "-73.99193287",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 140,
+    "fields": {
+        "latitude": "40.746628",
+        "longitude": "-73.981399",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 141,
+    "fields": {
+        "latitude": "40.74198566",
+        "longitude": "-73.98067832",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 142,
+    "fields": {
+        "latitude": "40.740709",
+        "longitude": "-73.981936",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 143,
+    "fields": {
+        "latitude": "40.733421",
+        "longitude": "-73.999518",
+        "location_type": 7,
+        "name": "BARNES & NOBLE"
+    }
+}, {
+    "model": "core.location",
+    "pk": 144,
+    "fields": {
+        "latitude": "40.758587",
+        "longitude": "-73.969831",
+        "location_type": 7,
+        "name": "BARNES & NOBLE"
+    }
+}, {
+    "model": "core.location",
+    "pk": 145,
+    "fields": {
+        "latitude": "40.737137",
+        "longitude": "-73.990077",
+        "location_type": 7,
+        "name": "BARNES & NOBLE"
+    }
+}, {
+    "model": "core.location",
+    "pk": 146,
+    "fields": {
+        "latitude": "40.729917",
+        "longitude": "-73.992566",
+        "location_type": 7,
+        "name": "BARNES & NOBLE"
+    }
+}, {
+    "model": "core.location",
+    "pk": 147,
+    "fields": {
+        "latitude": "40.74186",
+        "longitude": "-73.993767",
+        "location_type": 7,
+        "name": "BARNES & NOBLE"
+    }
+}, {
+    "model": "core.location",
+    "pk": 148,
+    "fields": {
+        "latitude": "40.774326",
+        "longitude": "-73.981944",
+        "location_type": 7,
+        "name": "BARNES & NOBLE"
+    }
+}, {
+    "model": "core.location",
+    "pk": 149,
+    "fields": {
+        "latitude": "40.715434",
+        "longitude": "-74.008729",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 150,
+    "fields": {
+        "latitude": "40.77108842",
+        "longitude": "-73.9568603",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 151,
+    "fields": {
+        "latitude": "40.72989708",
+        "longitude": "-73.9906776",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 152,
+    "fields": {
+        "latitude": "40.75249533",
+        "longitude": "-73.97755623",
+        "location_type": 3,
+        "name": "Grand Central Station Public Restroom"
+    }
+}, {
+    "model": "core.location",
+    "pk": 153,
+    "fields": {
+        "latitude": "40.757667",
+        "longitude": "-73.982217",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 154,
+    "fields": {
+        "latitude": "40.764181",
+        "longitude": "-73.982279",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 155,
+    "fields": {
+        "latitude": "40.777441",
+        "longitude": "-73.982314",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 156,
+    "fields": {
+        "latitude": "40.769273",
+        "longitude": "-73.982344",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 157,
+    "fields": {
+        "latitude": "40.74861",
+        "longitude": "-73.982499",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 158,
+    "fields": {
+        "latitude": "40.763045",
+        "longitude": "-73.983176",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 159,
+    "fields": {
+        "latitude": "40.766892",
+        "longitude": "-73.983628",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 160,
+    "fields": {
+        "latitude": "40.77566276",
+        "longitude": "-73.94415736",
+        "location_type": 3,
+        "name": "Carl Schurz Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 161,
+    "fields": {
+        "latitude": "40.77225844",
+        "longitude": "-73.97782445",
+        "location_type": 3,
+        "name": "Tavern on the Green"
+    }
+}, {
+    "model": "core.location",
+    "pk": 162,
+    "fields": {
+        "latitude": "40.75647768",
+        "longitude": "-73.97431612",
+        "location_type": 8,
+        "name": "Waldorf Astoria Hotel"
+    }
+}, {
+    "model": "core.location",
+    "pk": 163,
+    "fields": {
+        "latitude": "40.76202819",
+        "longitude": "-73.97225618",
+        "location_type": 8,
+        "name": "Four Seasons Hotel New York"
+    }
+}, {
+    "model": "core.location",
+    "pk": 164,
+    "fields": {
+        "latitude": "40.75886698",
+        "longitude": "-73.97794247",
+        "location_type": 3,
+        "name": "Rockefeller Center"
+    }
+}, {
+    "model": "core.location",
+    "pk": 165,
+    "fields": {
+        "latitude": "40.759574",
+        "longitude": "-73.97704124",
+        "location_type": 3,
+        "name": "SAKS Fifth Avenue"
+    }
+}, {
+    "model": "core.location",
+    "pk": 166,
+    "fields": {
+        "latitude": "40.74874033",
+        "longitude": "-73.98486257",
+        "location_type": 8,
+        "name": "Banana RePublic"
+    }
+}, {
+    "model": "core.location",
+    "pk": 167,
+    "fields": {
+        "latitude": "40.76163813",
+        "longitude": "-73.99008751",
+        "location_type": 8,
+        "name": "Pietrasanta"
+    }
+}, {
+    "model": "core.location",
+    "pk": 168,
+    "fields": {
+        "latitude": "40.72135571",
+        "longitude": "-74.00055885",
+        "location_type": 8,
+        "name": "Pearl River Market"
+    }
+}, {
+    "model": "core.location",
+    "pk": 169,
+    "fields": {
+        "latitude": "40.73286862",
+        "longitude": "-74.00304794",
+        "location_type": 8,
+        "name": "Jekyll and Hyde Restaurant"
+    }
+}, {
+    "model": "core.location",
+    "pk": 170,
+    "fields": {
+        "latitude": "40.76716",
+        "longitude": "-73.96382",
+        "location_type": 8,
+        "name": "NYC Police Station (19TH PRECINCT)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 171,
+    "fields": {
+        "latitude": "40.7539",
+        "longitude": "-73.99489",
+        "location_type": 8,
+        "name": "NYC Police Station (14TH PRECINCT MID~TOWN SOUTH)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 172,
+    "fields": {
+        "latitude": "40.76446604",
+        "longitude": "-73.97130132",
+        "location_type": 3,
+        "name": "Barneys New York"
+    }
+}, {
+    "model": "core.location",
+    "pk": 173,
+    "fields": {
+        "latitude": "40.7619063",
+        "longitude": "-73.96719217",
+        "location_type": 3,
+        "name": "Bloomingdales"
+    }
+}, {
+    "model": "core.location",
+    "pk": 174,
+    "fields": {
+        "latitude": "40.72250221",
+        "longitude": "-73.9995718",
+        "location_type": 3,
+        "name": "Old Navy"
+    }
+}, {
+    "model": "core.location",
+    "pk": 175,
+    "fields": {
+        "latitude": "40.71111763",
+        "longitude": "-74.01027918",
+        "location_type": 8,
+        "name": "St. Pauls Chapel"
+    }
+}, {
+    "model": "core.location",
+    "pk": 176,
+    "fields": {
+        "latitude": "40.70781574",
+        "longitude": "-74.01124477",
+        "location_type": 7,
+        "name": "Borders"
+    }
+}, {
+    "model": "core.location",
+    "pk": 177,
+    "fields": {
+        "latitude": "40.7348279",
+        "longitude": "-73.99126768",
+        "location_type": 8,
+        "name": "Whole Foods Market"
+    }
+}, {
+    "model": "core.location",
+    "pk": 178,
+    "fields": {
+        "latitude": "40.76482",
+        "longitude": "-73.98523",
+        "location_type": 8,
+        "name": "NYC Police Station (MIDTOWN NORTH)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 179,
+    "fields": {
+        "latitude": "40.72024",
+        "longitude": "-74.00712",
+        "location_type": 8,
+        "name": "NYC Police Station (1ST PRECINCT)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 180,
+    "fields": {
+        "latitude": "40.78934",
+        "longitude": "-73.94769",
+        "location_type": 8,
+        "name": "NYC Police Station (23RD PRECINCT)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 181,
+    "fields": {
+        "latitude": "40.78522",
+        "longitude": "-73.9699",
+        "location_type": 8,
+        "name": "NYC Police Station (CENTRAL PARK PRECINCT)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 182,
+    "fields": {
+        "latitude": "40.71643",
+        "longitude": "-73.98393",
+        "location_type": 8,
+        "name": "NYC Police Station (7TH PRECINCT)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 183,
+    "fields": {
+        "latitude": "40.73675",
+        "longitude": "-73.98286",
+        "location_type": 8,
+        "name": "NYC Police Station (13TH PRECINCT)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 184,
+    "fields": {
+        "latitude": "40.71617",
+        "longitude": "-73.99751",
+        "location_type": 8,
+        "name": "NYC Police Station (5TH PRECINCT)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 185,
+    "fields": {
+        "latitude": "40.80068",
+        "longitude": "-73.94113",
+        "location_type": 8,
+        "name": "NYC Police Station (25TH PRECINCT)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 186,
+    "fields": {
+        "latitude": "40.73405",
+        "longitude": "-74.00543",
+        "location_type": 8,
+        "name": "NYC Police Station (6TH PRECINCT)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 187,
+    "fields": {
+        "latitude": "40.72654",
+        "longitude": "-73.98783",
+        "location_type": 8,
+        "name": "NYC Police Station (9TH PRECINCT)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 188,
+    "fields": {
+        "latitude": "40.72581151",
+        "longitude": "-73.99691105",
+        "location_type": 3,
+        "name": "Crate and Barrel"
+    }
+}, {
+    "model": "core.location",
+    "pk": 189,
+    "fields": {
+        "latitude": "40.78067954",
+        "longitude": "-73.96178484",
+        "location_type": 3,
+        "name": "Ancient Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 190,
+    "fields": {
+        "latitude": "40.74267",
+        "longitude": "-73.99867",
+        "location_type": 8,
+        "name": "NYC Police Station (10TH PRECINCT)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 191,
+    "fields": {
+        "latitude": "40.79652",
+        "longitude": "-73.96717",
+        "location_type": 8,
+        "name": "NYC Police Station (24TH PRECINCT)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 192,
+    "fields": {
+        "latitude": "40.75689",
+        "longitude": "-73.97054",
+        "location_type": 8,
+        "name": "NYC Police Station (17TH PRECINCT)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 193,
+    "fields": {
+        "latitude": "40.78403",
+        "longitude": "-73.97506",
+        "location_type": 8,
+        "name": "NYC Police Station (20TH PRECINCT)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 194,
+    "fields": {
+        "latitude": "40.70710003",
+        "longitude": "-74.00367022",
+        "location_type": 3,
+        "name": "South Street Seaport Mall"
+    }
+}, {
+    "model": "core.location",
+    "pk": 195,
+    "fields": {
+        "latitude": "40.71308568",
+        "longitude": "-74.01547194",
+        "location_type": 3,
+        "name": "World Financial Center, Winter Garden"
+    }
+}, {
+    "model": "core.location",
+    "pk": 196,
+    "fields": {
+        "latitude": "40.72191677",
+        "longitude": "-74.00431395",
+        "location_type": 8,
+        "name": "Soho Grand"
+    }
+}, {
+    "model": "core.location",
+    "pk": 197,
+    "fields": {
+        "latitude": "40.72471385",
+        "longitude": "-73.99646044",
+        "location_type": 7,
+        "name": "Housing Works Used Book Cafe"
+    }
+}, {
+    "model": "core.location",
+    "pk": 198,
+    "fields": {
+        "latitude": "40.75751793",
+        "longitude": "-73.97829652",
+        "location_type": 7,
+        "name": "Barnes & Noble Midtown @ Rockefeller Center"
+    }
+}, {
+    "model": "core.location",
+    "pk": 199,
+    "fields": {
+        "latitude": "40.75068694",
+        "longitude": "-73.99248004",
+        "location_type": 3,
+        "name": "Long Island Railroad"
+    }
+}, {
+    "model": "core.location",
+    "pk": 200,
+    "fields": {
+        "latitude": "40.77154952",
+        "longitude": "-73.98186117",
+        "location_type": 8,
+        "name": "Josephia Restaurants"
+    }
+}, {
+    "model": "core.location",
+    "pk": 201,
+    "fields": {
+        "latitude": "40.77127936",
+        "longitude": "-73.98234397",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 202,
+    "fields": {
+        "latitude": "40.73065726",
+        "longitude": "-73.99865985",
+        "location_type": 3,
+        "name": "Washington Square Park Bathrooms"
+    }
+}, {
+    "model": "core.location",
+    "pk": 203,
+    "fields": {
+        "latitude": "40.75085356",
+        "longitude": "-73.99404645",
+        "location_type": 3,
+        "name": "Penn Station Public Restroom"
+    }
+}, {
+    "model": "core.location",
+    "pk": 204,
+    "fields": {
+        "latitude": "40.74991481",
+        "longitude": "-73.99108529",
+        "location_type": 8,
+        "name": "Hotel Pennsylvania"
+    }
+}, {
+    "model": "core.location",
+    "pk": 205,
+    "fields": {
+        "latitude": "40.76055325",
+        "longitude": "-73.98489475",
+        "location_type": 8,
+        "name": "Crown Plaza Hotel"
+    }
+}, {
+    "model": "core.location",
+    "pk": 206,
+    "fields": {
+        "latitude": "40.762196",
+        "longitude": "-73.983396",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 207,
+    "fields": {
+        "latitude": "40.76329182",
+        "longitude": "-73.98307085",
+        "location_type": 4,
+        "name": "Cosi"
+    }
+}, {
+    "model": "core.location",
+    "pk": 208,
+    "fields": {
+        "latitude": "40.76028507",
+        "longitude": "-73.9844656",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 209,
+    "fields": {
+        "latitude": "40.76014692",
+        "longitude": "-73.98450851",
+        "location_type": 8,
+        "name": "M&M Store"
+    }
+}, {
+    "model": "core.location",
+    "pk": 210,
+    "fields": {
+        "latitude": "40.75731069",
+        "longitude": "-73.98249149",
+        "location_type": 4,
+        "name": "Europa Cafe"
+    }
+}, {
+    "model": "core.location",
+    "pk": 211,
+    "fields": {
+        "latitude": "40.75821277",
+        "longitude": "-73.98137569",
+        "location_type": 4,
+        "name": "Pret a Manger"
+    }
+}, {
+    "model": "core.location",
+    "pk": 212,
+    "fields": {
+        "latitude": "40.72949464",
+        "longitude": "-74.00084853",
+        "location_type": 8,
+        "name": "Salon G"
+    }
+}, {
+    "model": "core.location",
+    "pk": 213,
+    "fields": {
+        "latitude": "40.7329987",
+        "longitude": "-74.00294065",
+        "location_type": 8,
+        "name": "Garage"
+    }
+}, {
+    "model": "core.location",
+    "pk": 214,
+    "fields": {
+        "latitude": "40.73250278",
+        "longitude": "-74.00324106",
+        "location_type": 8,
+        "name": "Bleecker Street Pizza"
+    }
+}, {
+    "model": "core.location",
+    "pk": 215,
+    "fields": {
+        "latitude": "40.73304748",
+        "longitude": "-74.00384188",
+        "location_type": 4,
+        "name": "Cafe Angelique"
+    }
+}, {
+    "model": "core.location",
+    "pk": 216,
+    "fields": {
+        "latitude": "40.73664891",
+        "longitude": "-74.00077343",
+        "location_type": 8,
+        "name": "St. Vicents Hospital"
+    }
+}, {
+    "model": "core.location",
+    "pk": 217,
+    "fields": {
+        "latitude": "40.77332078",
+        "longitude": "-73.98139179",
+        "location_type": 8,
+        "name": "International Hair"
+    }
+}, {
+    "model": "core.location",
+    "pk": 218,
+    "fields": {
+        "latitude": "40.77153734",
+        "longitude": "-73.98187995",
+        "location_type": 8,
+        "name": "Josephina Restaurant"
+    }
+}, {
+    "model": "core.location",
+    "pk": 219,
+    "fields": {
+        "latitude": "40.7315597",
+        "longitude": "-74.00197506",
+        "location_type": 4,
+        "name": "Cornelia Street Cafe"
+    }
+}, {
+    "model": "core.location",
+    "pk": 220,
+    "fields": {
+        "latitude": "40.77053387",
+        "longitude": "-73.98229837",
+        "location_type": 8,
+        "name": "Melissa Gourmet"
+    }
+}, {
+    "model": "core.location",
+    "pk": 221,
+    "fields": {
+        "latitude": "40.72945398",
+        "longitude": "-74.00086999",
+        "location_type": 8,
+        "name": "Slane"
+    }
+}, {
+    "model": "core.location",
+    "pk": 222,
+    "fields": {
+        "latitude": "40.73190929",
+        "longitude": "-74.00328398",
+        "location_type": 4,
+        "name": "Sarahs Bagel Cafe"
+    }
+}, {
+    "model": "core.location",
+    "pk": 223,
+    "fields": {
+        "latitude": "40.77128952",
+        "longitude": "-73.9823252",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 224,
+    "fields": {
+        "latitude": "40.73330357",
+        "longitude": "-74.0023452",
+        "location_type": 8,
+        "name": "Mercadito Grove"
+    }
+}, {
+    "model": "core.location",
+    "pk": 225,
+    "fields": {
+        "latitude": "40.73265318",
+        "longitude": "-74.00312841",
+        "location_type": 8,
+        "name": "Karavas"
+    }
+}, {
+    "model": "core.location",
+    "pk": 226,
+    "fields": {
+        "latitude": "40.73083612",
+        "longitude": "-74.00467873",
+        "location_type": 8,
+        "name": "Burritoville"
+    }
+}, {
+    "model": "core.location",
+    "pk": 227,
+    "fields": {
+        "latitude": "40.72974668",
+        "longitude": "-74.00364876",
+        "location_type": 8,
+        "name": "GROME"
+    }
+}, {
+    "model": "core.location",
+    "pk": 228,
+    "fields": {
+        "latitude": "40.73322634",
+        "longitude": "-73.9995718",
+        "location_type": 4,
+        "name": "Market Place Cafe"
+    }
+}, {
+    "model": "core.location",
+    "pk": 229,
+    "fields": {
+        "latitude": "40.75813151",
+        "longitude": "-73.98034573",
+        "location_type": 4,
+        "name": "Lennys NYC"
+    }
+}, {
+    "model": "core.location",
+    "pk": 230,
+    "fields": {
+        "latitude": "40.75938302",
+        "longitude": "-73.98043156",
+        "location_type": 4,
+        "name": "Starbucks Below Rockefeller Center"
+    }
+}, {
+    "model": "core.location",
+    "pk": 231,
+    "fields": {
+        "latitude": "40.75925299",
+        "longitude": "-73.97734165",
+        "location_type": 4,
+        "name": "Au Croissant and Gourmet"
+    }
+}, {
+    "model": "core.location",
+    "pk": 232,
+    "fields": {
+        "latitude": "40.76754167",
+        "longitude": "-73.98304939",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 233,
+    "fields": {
+        "latitude": "40.76778544",
+        "longitude": "-73.98369312",
+        "location_type": 8,
+        "name": "Subway"
+    }
+}, {
+    "model": "core.location",
+    "pk": 234,
+    "fields": {
+        "latitude": "40.76837048",
+        "longitude": "-73.98506641",
+        "location_type": 4,
+        "name": "Europa Cafe"
+    }
+}, {
+    "model": "core.location",
+    "pk": 235,
+    "fields": {
+        "latitude": "40.76684286",
+        "longitude": "-73.98356438",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 236,
+    "fields": {
+        "latitude": "40.76625781",
+        "longitude": "-73.98360729",
+        "location_type": 8,
+        "name": "FedEx Kinkos"
+    }
+}, {
+    "model": "core.location",
+    "pk": 237,
+    "fields": {
+        "latitude": "40.76549398",
+        "longitude": "-73.98382187",
+        "location_type": 4,
+        "name": "Hale and Hearty Soups"
+    }
+}, {
+    "model": "core.location",
+    "pk": 238,
+    "fields": {
+        "latitude": "40.76574588",
+        "longitude": "-73.98368239",
+        "location_type": 4,
+        "name": "The Bread Factory Cafe"
+    }
+}, {
+    "model": "core.location",
+    "pk": 239,
+    "fields": {
+        "latitude": "40.76709476",
+        "longitude": "-73.98266315",
+        "location_type": 7,
+        "name": "Universal News"
+    }
+}, {
+    "model": "core.location",
+    "pk": 240,
+    "fields": {
+        "latitude": "40.72794173",
+        "longitude": "-73.99892807",
+        "location_type": 8,
+        "name": "Associated Supermarket"
+    }
+}, {
+    "model": "core.location",
+    "pk": 241,
+    "fields": {
+        "latitude": "40.73090116",
+        "longitude": "-74.00136352",
+        "location_type": 8,
+        "name": "Cafe Amore"
+    }
+}, {
+    "model": "core.location",
+    "pk": 242,
+    "fields": {
+        "latitude": "40.74115246",
+        "longitude": "-73.98794979",
+        "location_type": 3,
+        "name": "Public Restroom"
+    }
+}, {
+    "model": "core.location",
+    "pk": 243,
+    "fields": {
+        "latitude": "40.73032392",
+        "longitude": "-74.00009751",
+        "location_type": 8,
+        "name": "Bens Pizzaria"
+    }
+}, {
+    "model": "core.location",
+    "pk": 244,
+    "fields": {
+        "latitude": "40.73220197",
+        "longitude": "-74.00069833",
+        "location_type": 8,
+        "name": "Coldstone Creamery"
+    }
+}, {
+    "model": "core.location",
+    "pk": 245,
+    "fields": {
+        "latitude": "40.76066295",
+        "longitude": "-73.9608407",
+        "location_type": 3,
+        "name": "Bed Bath and Beyond"
+    }
+}, {
+    "model": "core.location",
+    "pk": 246,
+    "fields": {
+        "latitude": "40.74000221",
+        "longitude": "-73.99479747",
+        "location_type": 3,
+        "name": "Bed Bath and Beyond"
+    }
+}, {
+    "model": "core.location",
+    "pk": 247,
+    "fields": {
+        "latitude": "40.74122968",
+        "longitude": "-74.00573015",
+        "location_type": 3,
+        "name": "Bodum"
+    }
+}, {
+    "model": "core.location",
+    "pk": 248,
+    "fields": {
+        "latitude": "40.70252911",
+        "longitude": "-74.01203871",
+        "location_type": 3,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 249,
+    "fields": {
+        "latitude": "40.76360061",
+        "longitude": "-73.98289919",
+        "location_type": 8,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 250,
+    "fields": {
+        "latitude": "40.73965673",
+        "longitude": "-73.99493694",
+        "location_type": 3,
+        "name": "Old Navy"
+    }
+}, {
+    "model": "core.location",
+    "pk": 251,
+    "fields": {
+        "latitude": "40.76765543",
+        "longitude": "-73.98216963",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 252,
+    "fields": {
+        "latitude": "40.70120332",
+        "longitude": "-74.01248932",
+        "location_type": 3,
+        "name": "Staten Island Ferry"
+    }
+}, {
+    "model": "core.location",
+    "pk": 253,
+    "fields": {
+        "latitude": "40.72091256",
+        "longitude": "-74.00439978",
+        "location_type": 3,
+        "name": "Tribeca Bagels"
+    }
+}, {
+    "model": "core.location",
+    "pk": 254,
+    "fields": {
+        "latitude": "40.71969488",
+        "longitude": "-74.00269389",
+        "location_type": 3,
+        "name": "Pearl Paint"
+    }
+}, {
+    "model": "core.location",
+    "pk": 255,
+    "fields": {
+        "latitude": "40.71870892",
+        "longitude": "-74.00250614",
+        "location_type": 4,
+        "name": "Broadway Cafe"
+    }
+}, {
+    "model": "core.location",
+    "pk": 256,
+    "fields": {
+        "latitude": "40.71887562",
+        "longitude": "-74.00112748",
+        "location_type": 8,
+        "name": "Pashmina Shopping Center"
+    }
+}, {
+    "model": "core.location",
+    "pk": 257,
+    "fields": {
+        "latitude": "40.71965015",
+        "longitude": "-74.00227815",
+        "location_type": 3,
+        "name": "Sbarro Pizza and Pasta"
+    }
+}, {
+    "model": "core.location",
+    "pk": 258,
+    "fields": {
+        "latitude": "40.71893254",
+        "longitude": "-74.00111675",
+        "location_type": 3,
+        "name": "Kings Leather"
+    }
+}, {
+    "model": "core.location",
+    "pk": 259,
+    "fields": {
+        "latitude": "40.71886749",
+        "longitude": "-74.00265098",
+        "location_type": 3,
+        "name": "Starbucks Coffee"
+    }
+}, {
+    "model": "core.location",
+    "pk": 260,
+    "fields": {
+        "latitude": "40.71841212",
+        "longitude": "-73.9999634",
+        "location_type": 8,
+        "name": "Canal Lucky Jewelry Center"
+    }
+}, {
+    "model": "core.location",
+    "pk": 261,
+    "fields": {
+        "latitude": "40.71546027",
+        "longitude": "-73.99876714",
+        "location_type": 3,
+        "name": "Teariffic"
+    }
+}, {
+    "model": "core.location",
+    "pk": 262,
+    "fields": {
+        "latitude": "40.71859915",
+        "longitude": "-74.00252759",
+        "location_type": 8,
+        "name": "Sun Sai Kai Restaurant"
+    }
+}, {
+    "model": "core.location",
+    "pk": 263,
+    "fields": {
+        "latitude": "40.71931879",
+        "longitude": "-74.00100946",
+        "location_type": 3,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 264,
+    "fields": {
+        "latitude": "40.71913583",
+        "longitude": "-74.00022626",
+        "location_type": 8,
+        "name": "Holiday Inn"
+    }
+}, {
+    "model": "core.location",
+    "pk": 265,
+    "fields": {
+        "latitude": "40.71861134",
+        "longitude": "-74.00079757",
+        "location_type": 3,
+        "name": "Mc Donalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 266,
+    "fields": {
+        "latitude": "40.76226792",
+        "longitude": "-73.98047447",
+        "location_type": 4,
+        "name": "Lous Cafe"
+    }
+}, {
+    "model": "core.location",
+    "pk": 267,
+    "fields": {
+        "latitude": "40.76346247",
+        "longitude": "-73.98135424",
+        "location_type": 8,
+        "name": "Cafe Metro"
+    }
+}, {
+    "model": "core.location",
+    "pk": 268,
+    "fields": {
+        "latitude": "40.75785519",
+        "longitude": "-73.98548484",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 269,
+    "fields": {
+        "latitude": "40.76197537",
+        "longitude": "-73.98362875",
+        "location_type": 8,
+        "name": "Ellens Stardust Diner"
+    }
+}, {
+    "model": "core.location",
+    "pk": 270,
+    "fields": {
+        "latitude": "40.7619835",
+        "longitude": "-73.98266315",
+        "location_type": 8,
+        "name": "Sheraton Manhattan Hotel"
+    }
+}, {
+    "model": "core.location",
+    "pk": 271,
+    "fields": {
+        "latitude": "40.76287739",
+        "longitude": "-73.98197651",
+        "location_type": 8,
+        "name": "Sheraton New York Hotel & Towers"
+    }
+}, {
+    "model": "core.location",
+    "pk": 272,
+    "fields": {
+        "latitude": "40.76176815",
+        "longitude": "-73.97907168",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 273,
+    "fields": {
+        "latitude": "40.7632837",
+        "longitude": "-73.98166001",
+        "location_type": 8,
+        "name": "Rays Pizza"
+    }
+}, {
+    "model": "core.location",
+    "pk": 274,
+    "fields": {
+        "latitude": "40.76256249",
+        "longitude": "-73.97882491",
+        "location_type": 8,
+        "name": "Hilton Hotel"
+    }
+}, {
+    "model": "core.location",
+    "pk": 275,
+    "fields": {
+        "latitude": "40.75816604",
+        "longitude": "-73.98909509",
+        "location_type": 8,
+        "name": "Famiglia Pizzeria"
+    }
+}, {
+    "model": "core.location",
+    "pk": 276,
+    "fields": {
+        "latitude": "40.75821074",
+        "longitude": "-73.98906291",
+        "location_type": 8,
+        "name": "McDonalds Restaurant"
+    }
+}, {
+    "model": "core.location",
+    "pk": 277,
+    "fields": {
+        "latitude": "40.7583428",
+        "longitude": "-73.97094727",
+        "location_type": 3,
+        "name": "Citicorp Center"
+    }
+}, {
+    "model": "core.location",
+    "pk": 278,
+    "fields": {
+        "latitude": "40.73535632",
+        "longitude": "-73.98952961",
+        "location_type": 3,
+        "name": "Babies R Us"
+    }
+}, {
+    "model": "core.location",
+    "pk": 279,
+    "fields": {
+        "latitude": "40.7419816",
+        "longitude": "-74.00518298",
+        "location_type": 3,
+        "name": "Chelsea Market"
+    }
+}, {
+    "model": "core.location",
+    "pk": 280,
+    "fields": {
+        "latitude": "40.75878165",
+        "longitude": "-73.98691177",
+        "location_type": 8,
+        "name": "Mariott Marquis Hotel"
+    }
+}, {
+    "model": "core.location",
+    "pk": 281,
+    "fields": {
+        "latitude": "40.75888729",
+        "longitude": "-73.98474455",
+        "location_type": 3,
+        "name": "Times Square McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 282,
+    "fields": {
+        "latitude": "40.70232577",
+        "longitude": "-74.01275754",
+        "location_type": 3,
+        "name": "Staten Island Ferry"
+    }
+}, {
+    "model": "core.location",
+    "pk": 283,
+    "fields": {
+        "latitude": "40.70306999",
+        "longitude": "-74.01611567",
+        "location_type": 8,
+        "name": "Castle Clinton"
+    }
+}, {
+    "model": "core.location",
+    "pk": 284,
+    "fields": {
+        "latitude": "40.70419241",
+        "longitude": "-74.00907218",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 285,
+    "fields": {
+        "latitude": "40.70519688",
+        "longitude": "-74.00707126",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 286,
+    "fields": {
+        "latitude": "40.70618913",
+        "longitude": "-74.00841236",
+        "location_type": 3,
+        "name": "Public Atrium ~ 60 Wall St."
+    }
+}, {
+    "model": "core.location",
+    "pk": 287,
+    "fields": {
+        "latitude": "40.70924712",
+        "longitude": "-74.01281387",
+        "location_type": 3,
+        "name": "Cosmos Service Inc"
+    }
+}, {
+    "model": "core.location",
+    "pk": 288,
+    "fields": {
+        "latitude": "40.70883235",
+        "longitude": "-74.00556922",
+        "location_type": 3,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 289,
+    "fields": {
+        "latitude": "40.7090926",
+        "longitude": "-74.00551558",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 290,
+    "fields": {
+        "latitude": "40.71054835",
+        "longitude": "-74.01070833",
+        "location_type": 8,
+        "name": "Century 21"
+    }
+}, {
+    "model": "core.location",
+    "pk": 291,
+    "fields": {
+        "latitude": "40.71130874",
+        "longitude": "-74.00854111",
+        "location_type": 4,
+        "name": "Starbucks ( Battery Park Plaza)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 292,
+    "fields": {
+        "latitude": "40.71308568",
+        "longitude": "-74.01549339",
+        "location_type": 8,
+        "name": "World Financial Center"
+    }
+}, {
+    "model": "core.location",
+    "pk": 293,
+    "fields": {
+        "latitude": "40.71358581",
+        "longitude": "-74.00840163",
+        "location_type": 8,
+        "name": "Indian Express"
+    }
+}, {
+    "model": "core.location",
+    "pk": 294,
+    "fields": {
+        "latitude": "40.71346789",
+        "longitude": "-74.00815487",
+        "location_type": 8,
+        "name": "17 Murray St Restaurant"
+    }
+}, {
+    "model": "core.location",
+    "pk": 295,
+    "fields": {
+        "latitude": "40.71326459",
+        "longitude": "-74.00767207",
+        "location_type": 3,
+        "name": "New Amsterdam Branch Library"
+    }
+}, {
+    "model": "core.location",
+    "pk": 296,
+    "fields": {
+        "latitude": "40.71341707",
+        "longitude": "-74.00801539",
+        "location_type": 8,
+        "name": "2 Rivers"
+    }
+}, {
+    "model": "core.location",
+    "pk": 297,
+    "fields": {
+        "latitude": "40.71216469",
+        "longitude": "-74.00331885",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 298,
+    "fields": {
+        "latitude": "40.714915",
+        "longitude": "-74.005861",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 299,
+    "fields": {
+        "latitude": "40.71561071",
+        "longitude": "-74.01141644",
+        "location_type": 7,
+        "name": "Barnes & Noble Booksellers ~Tribeca"
+    }
+}, {
+    "model": "core.location",
+    "pk": 300,
+    "fields": {
+        "latitude": "40.715923",
+        "longitude": "-74.00345",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 301,
+    "fields": {
+        "latitude": "40.71802993",
+        "longitude": "-74.00305867",
+        "location_type": 8,
+        "name": "Dunmow"
+    }
+}, {
+    "model": "core.location",
+    "pk": 302,
+    "fields": {
+        "latitude": "40.71949769",
+        "longitude": "-74.00438368",
+        "location_type": 8,
+        "name": "Bread"
+    }
+}, {
+    "model": "core.location",
+    "pk": 303,
+    "fields": {
+        "latitude": "40.71968065",
+        "longitude": "-74.00511324",
+        "location_type": 8,
+        "name": "Tribeca Grand"
+    }
+}, {
+    "model": "core.location",
+    "pk": 304,
+    "fields": {
+        "latitude": "40.71808279",
+        "longitude": "-73.99979174",
+        "location_type": 4,
+        "name": "Starbucks Coffee"
+    }
+}, {
+    "model": "core.location",
+    "pk": 305,
+    "fields": {
+        "latitude": "40.71560258",
+        "longitude": "-73.9979893",
+        "location_type": 8,
+        "name": "New Green Bo Restaurant"
+    }
+}, {
+    "model": "core.location",
+    "pk": 306,
+    "fields": {
+        "latitude": "40.71513498",
+        "longitude": "-74.0005374",
+        "location_type": 3,
+        "name": "Columbus Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 307,
+    "fields": {
+        "latitude": "40.71774735",
+        "longitude": "-73.99622977",
+        "location_type": 3,
+        "name": "Franklin Square"
+    }
+}, {
+    "model": "core.location",
+    "pk": 308,
+    "fields": {
+        "latitude": "40.71716593",
+        "longitude": "-73.99723291",
+        "location_type": 8,
+        "name": "Grand Harmony"
+    }
+}, {
+    "model": "core.location",
+    "pk": 309,
+    "fields": {
+        "latitude": "40.721291",
+        "longitude": "-74.00045",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 310,
+    "fields": {
+        "latitude": "40.76826079",
+        "longitude": "-73.98326397",
+        "location_type": 8,
+        "name": "Time Warner Building"
+    }
+}, {
+    "model": "core.location",
+    "pk": 311,
+    "fields": {
+        "latitude": "40.72285998",
+        "longitude": "-74.0013957",
+        "location_type": 8,
+        "name": "Cafe Cafe"
+    }
+}, {
+    "model": "core.location",
+    "pk": 312,
+    "fields": {
+        "latitude": "40.72226641",
+        "longitude": "-73.99922848",
+        "location_type": 3,
+        "name": "Bloomingdales Soho"
+    }
+}, {
+    "model": "core.location",
+    "pk": 313,
+    "fields": {
+        "latitude": "40.722384",
+        "longitude": "-73.997642",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 314,
+    "fields": {
+        "latitude": "40.72266484",
+        "longitude": "-73.9979893",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 315,
+    "fields": {
+        "latitude": "40.72306936",
+        "longitude": "-73.99874568",
+        "location_type": 8,
+        "name": "Banana RePublic"
+    }
+}, {
+    "model": "core.location",
+    "pk": 316,
+    "fields": {
+        "latitude": "40.7237422",
+        "longitude": "-73.99882615",
+        "location_type": 8,
+        "name": "Cafe Duke"
+    }
+}, {
+    "model": "core.location",
+    "pk": 317,
+    "fields": {
+        "latitude": "40.72606356",
+        "longitude": "-74.00238276",
+        "location_type": 8,
+        "name": "Blue Ribbon Sushi"
+    }
+}, {
+    "model": "core.location",
+    "pk": 318,
+    "fields": {
+        "latitude": "40.72637863",
+        "longitude": "-74.00178462",
+        "location_type": 8,
+        "name": "Peep"
+    }
+}, {
+    "model": "core.location",
+    "pk": 319,
+    "fields": {
+        "latitude": "40.72506348",
+        "longitude": "-73.99888515",
+        "location_type": 8,
+        "name": "Apple Store ~ SOHO"
+    }
+}, {
+    "model": "core.location",
+    "pk": 320,
+    "fields": {
+        "latitude": "40.72503095",
+        "longitude": "-73.99710953",
+        "location_type": 8,
+        "name": "Miro Cafe"
+    }
+}, {
+    "model": "core.location",
+    "pk": 321,
+    "fields": {
+        "latitude": "40.72491102",
+        "longitude": "-73.99720609",
+        "location_type": 8,
+        "name": "Broadway Gourmet"
+    }
+}, {
+    "model": "core.location",
+    "pk": 322,
+    "fields": {
+        "latitude": "40.72482768",
+        "longitude": "-73.99492621",
+        "location_type": 8,
+        "name": "Soho Billiards"
+    }
+}, {
+    "model": "core.location",
+    "pk": 323,
+    "fields": {
+        "latitude": "40.72458985",
+        "longitude": "-73.99478674",
+        "location_type": 8,
+        "name": "Botanica Bar"
+    }
+}, {
+    "model": "core.location",
+    "pk": 324,
+    "fields": {
+        "latitude": "40.72452481",
+        "longitude": "-73.99461508",
+        "location_type": 8,
+        "name": "Milanos Bar"
+    }
+}, {
+    "model": "core.location",
+    "pk": 325,
+    "fields": {
+        "latitude": "40.7237483",
+        "longitude": "-73.99162173",
+        "location_type": 8,
+        "name": "Whole Foods Market"
+    }
+}, {
+    "model": "core.location",
+    "pk": 326,
+    "fields": {
+        "latitude": "40.72273395",
+        "longitude": "-73.98907095",
+        "location_type": 8,
+        "name": "The National Underground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 327,
+    "fields": {
+        "latitude": "40.72301244",
+        "longitude": "-73.98857206",
+        "location_type": 4,
+        "name": "The Bean Coffee"
+    }
+}, {
+    "model": "core.location",
+    "pk": 328,
+    "fields": {
+        "latitude": "40.72316083",
+        "longitude": "-73.98819119",
+        "location_type": 8,
+        "name": "One and One"
+    }
+}, {
+    "model": "core.location",
+    "pk": 329,
+    "fields": {
+        "latitude": "40.72191067",
+        "longitude": "-73.98769766",
+        "location_type": 8,
+        "name": "Le Pere Pinard"
+    }
+}, {
+    "model": "core.location",
+    "pk": 330,
+    "fields": {
+        "latitude": "40.72116463",
+        "longitude": "-73.98812413",
+        "location_type": 8,
+        "name": "Stanton Social"
+    }
+}, {
+    "model": "core.location",
+    "pk": 331,
+    "fields": {
+        "latitude": "40.71971927",
+        "longitude": "-73.98719341",
+        "location_type": 8,
+        "name": "Welcome to the Johnsons"
+    }
+}, {
+    "model": "core.location",
+    "pk": 332,
+    "fields": {
+        "latitude": "40.76148779",
+        "longitude": "-73.97778153",
+        "location_type": 8,
+        "name": "MOMA"
+    }
+}, {
+    "model": "core.location",
+    "pk": 333,
+    "fields": {
+        "latitude": "40.756215",
+        "longitude": "-73.964282",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 334,
+    "fields": {
+        "latitude": "40.74960595",
+        "longitude": "-73.98779154",
+        "location_type": 8,
+        "name": "The Gap"
+    }
+}, {
+    "model": "core.location",
+    "pk": 335,
+    "fields": {
+        "latitude": "40.760841",
+        "longitude": "-73.983614",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 336,
+    "fields": {
+        "latitude": "40.72591314",
+        "longitude": "-73.99856865",
+        "location_type": 4,
+        "name": "Aroma Expresso Bar"
+    }
+}, {
+    "model": "core.location",
+    "pk": 337,
+    "fields": {
+        "latitude": "40.727437",
+        "longitude": "-73.995248",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 338,
+    "fields": {
+        "latitude": "40.72668963",
+        "longitude": "-73.99529636",
+        "location_type": 8,
+        "name": "Wendys"
+    }
+}, {
+    "model": "core.location",
+    "pk": 339,
+    "fields": {
+        "latitude": "40.72775676",
+        "longitude": "-73.9942342",
+        "location_type": 8,
+        "name": "Au Bon Pain"
+    }
+}, {
+    "model": "core.location",
+    "pk": 340,
+    "fields": {
+        "latitude": "40.72828321",
+        "longitude": "-73.99274021",
+        "location_type": 8,
+        "name": "Astor Wines"
+    }
+}, {
+    "model": "core.location",
+    "pk": 341,
+    "fields": {
+        "latitude": "40.72981578",
+        "longitude": "-73.98972273",
+        "location_type": 8,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 342,
+    "fields": {
+        "latitude": "40.72952716",
+        "longitude": "-73.98985147",
+        "location_type": 8,
+        "name": "Worlds Famous Rays Pizza"
+    }
+}, {
+    "model": "core.location",
+    "pk": 343,
+    "fields": {
+        "latitude": "40.72925479",
+        "longitude": "-73.98852915",
+        "location_type": 8,
+        "name": "Chipotle"
+    }
+}, {
+    "model": "core.location",
+    "pk": 344,
+    "fields": {
+        "latitude": "40.72898243",
+        "longitude": "-73.98676962",
+        "location_type": 4,
+        "name": "Mudspot"
+    }
+}, {
+    "model": "core.location",
+    "pk": 345,
+    "fields": {
+        "latitude": "40.729368",
+        "longitude": "-73.98727",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 346,
+    "fields": {
+        "latitude": "40.74989855",
+        "longitude": "-73.98798466",
+        "location_type": 8,
+        "name": "Macys"
+    }
+}, {
+    "model": "core.location",
+    "pk": 347,
+    "fields": {
+        "latitude": "40.75020741",
+        "longitude": "-73.98945451",
+        "location_type": 8,
+        "name": "Macys Cellar Bar & Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 348,
+    "fields": {
+        "latitude": "40.75052033",
+        "longitude": "-73.98913264",
+        "location_type": 3,
+        "name": "Macys Department Store"
+    }
+}, {
+    "model": "core.location",
+    "pk": 349,
+    "fields": {
+        "latitude": "40.75056",
+        "longitude": "-73.989262",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 350,
+    "fields": {
+        "latitude": "40.75058128",
+        "longitude": "-73.98985147",
+        "location_type": 8,
+        "name": "Old Navy"
+    }
+}, {
+    "model": "core.location",
+    "pk": 351,
+    "fields": {
+        "latitude": "40.75095516",
+        "longitude": "-73.99061322",
+        "location_type": 3,
+        "name": "Penn Station"
+    }
+}, {
+    "model": "core.location",
+    "pk": 352,
+    "fields": {
+        "latitude": "40.7509389",
+        "longitude": "-73.99059176",
+        "location_type": 8,
+        "name": "Macys"
+    }
+}, {
+    "model": "core.location",
+    "pk": 353,
+    "fields": {
+        "latitude": "40.75159",
+        "longitude": "-73.990346",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 354,
+    "fields": {
+        "latitude": "40.7522129",
+        "longitude": "-73.9901787",
+        "location_type": 8,
+        "name": "Bread Factory Cafe"
+    }
+}, {
+    "model": "core.location",
+    "pk": 355,
+    "fields": {
+        "latitude": "40.75211944",
+        "longitude": "-73.99261415",
+        "location_type": 8,
+        "name": "Wendys"
+    }
+}, {
+    "model": "core.location",
+    "pk": 356,
+    "fields": {
+        "latitude": "40.75246486",
+        "longitude": "-73.99327397",
+        "location_type": 8,
+        "name": "TGI Fridays"
+    }
+}, {
+    "model": "core.location",
+    "pk": 357,
+    "fields": {
+        "latitude": "40.752589",
+        "longitude": "-73.99301",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 358,
+    "fields": {
+        "latitude": "40.75279402",
+        "longitude": "-73.99360925",
+        "location_type": 8,
+        "name": "New Yorker Hotel"
+    }
+}, {
+    "model": "core.location",
+    "pk": 359,
+    "fields": {
+        "latitude": "40.75251362",
+        "longitude": "-73.99422884",
+        "location_type": 8,
+        "name": "AMC Loews"
+    }
+}, {
+    "model": "core.location",
+    "pk": 360,
+    "fields": {
+        "latitude": "40.75543132",
+        "longitude": "-73.99433881",
+        "location_type": 8,
+        "name": "Manganeros Hero~Boy Restaurant"
+    }
+}, {
+    "model": "core.location",
+    "pk": 361,
+    "fields": {
+        "latitude": "40.75603476",
+        "longitude": "-73.99043083",
+        "location_type": 3,
+        "name": "Port Authority Bus Terminal"
+    }
+}, {
+    "model": "core.location",
+    "pk": 362,
+    "fields": {
+        "latitude": "40.756765",
+        "longitude": "-73.988362",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 363,
+    "fields": {
+        "latitude": "40.75639844",
+        "longitude": "-73.98780763",
+        "location_type": 8,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 364,
+    "fields": {
+        "latitude": "40.75630701",
+        "longitude": "-73.98621708",
+        "location_type": 8,
+        "name": "Europa Cafe"
+    }
+}, {
+    "model": "core.location",
+    "pk": 365,
+    "fields": {
+        "latitude": "40.75666663",
+        "longitude": "-73.98635924",
+        "location_type": 8,
+        "name": "Red Lobster"
+    }
+}, {
+    "model": "core.location",
+    "pk": 366,
+    "fields": {
+        "latitude": "40.756806",
+        "longitude": "-73.985887",
+        "location_type": 4,
+        "name": "STARBUCKS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 367,
+    "fields": {
+        "latitude": "40.73134425",
+        "longitude": "-74.00066882",
+        "location_type": 8,
+        "name": "Vol De Nuit"
+    }
+}, {
+    "model": "core.location",
+    "pk": 368,
+    "fields": {
+        "latitude": "40.72992351",
+        "longitude": "-74.00084317",
+        "location_type": 8,
+        "name": "Off the Wagon (bar)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 369,
+    "fields": {
+        "latitude": "40.7292304",
+        "longitude": "-74.00089413",
+        "location_type": 8,
+        "name": "Qdoba"
+    }
+}, {
+    "model": "core.location",
+    "pk": 370,
+    "fields": {
+        "latitude": "40.72948854",
+        "longitude": "-73.99854988",
+        "location_type": 8,
+        "name": "The Half Pint (bar)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 371,
+    "fields": {
+        "latitude": "40.73107393",
+        "longitude": "-74.00265902",
+        "location_type": 8,
+        "name": "Amys Bread (cafe)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 372,
+    "fields": {
+        "latitude": "40.73009018",
+        "longitude": "-74.00321692",
+        "location_type": 4,
+        "name": "The Grey Dog Coffee"
+    }
+}, {
+    "model": "core.location",
+    "pk": 373,
+    "fields": {
+        "latitude": "40.7329235",
+        "longitude": "-74.00456071",
+        "location_type": 8,
+        "name": "Lederhosen"
+    }
+}, {
+    "model": "core.location",
+    "pk": 374,
+    "fields": {
+        "latitude": "40.73366941",
+        "longitude": "-74.00601715",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 375,
+    "fields": {
+        "latitude": "40.73321211",
+        "longitude": "-74.00342613",
+        "location_type": 8,
+        "name": "Maries Crisis ( bar)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 376,
+    "fields": {
+        "latitude": "40.73398241",
+        "longitude": "-74.00273412",
+        "location_type": 8,
+        "name": "The Riviera Cafe"
+    }
+}, {
+    "model": "core.location",
+    "pk": 377,
+    "fields": {
+        "latitude": "40.73582987",
+        "longitude": "-74.00595009",
+        "location_type": 8,
+        "name": "The White Horse"
+    }
+}, {
+    "model": "core.location",
+    "pk": 378,
+    "fields": {
+        "latitude": "40.733171",
+        "longitude": "-74.002735",
+        "location_type": 4,
+        "name": "Starbucks"
+    }
+}, {
+    "model": "core.location",
+    "pk": 379,
+    "fields": {
+        "latitude": "40.73246416",
+        "longitude": "-74.00155932",
+        "location_type": 8,
+        "name": "Down the Hatch (bar)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 380,
+    "fields": {
+        "latitude": "40.73591726",
+        "longitude": "-74.00071442",
+        "location_type": 8,
+        "name": "Fiddlesticks Bar"
+    }
+}, {
+    "model": "core.location",
+    "pk": 381,
+    "fields": {
+        "latitude": "40.7617072",
+        "longitude": "-73.97940159",
+        "location_type": 8,
+        "name": "Wachovia Bank"
+    }
+}, {
+    "model": "core.location",
+    "pk": 382,
+    "fields": {
+        "latitude": "40.74854119",
+        "longitude": "-73.98787737",
+        "location_type": 8,
+        "name": "Duane Reade Pharmacy"
+    }
+}, {
+    "model": "core.location",
+    "pk": 383,
+    "fields": {
+        "latitude": "40.7493865",
+        "longitude": "-73.98772717",
+        "location_type": 8,
+        "name": "Nedicks, Dunkin Donuts, KFC"
+    }
+}, {
+    "model": "core.location",
+    "pk": 384,
+    "fields": {
+        "latitude": "40.71437463",
+        "longitude": "-73.9990139",
+        "location_type": 8,
+        "name": "Hop Lee Restaurant"
+    }
+}, {
+    "model": "core.location",
+    "pk": 385,
+    "fields": {
+        "latitude": "40.71559038",
+        "longitude": "-74.01104629",
+        "location_type": 7,
+        "name": "Barnes & Noble"
+    }
+}, {
+    "model": "core.location",
+    "pk": 386,
+    "fields": {
+        "latitude": "40.71502114",
+        "longitude": "-74.01134133",
+        "location_type": 8,
+        "name": "Whole Foods Tribeca"
+    }
+}, {
+    "model": "core.location",
+    "pk": 387,
+    "fields": {
+        "latitude": "40.71376879",
+        "longitude": "-74.00873959",
+        "location_type": 8,
+        "name": "Delizia Uno"
+    }
+}, {
+    "model": "core.location",
+    "pk": 388,
+    "fields": {
+        "latitude": "40.7348218",
+        "longitude": "-73.97933722",
+        "location_type": 8,
+        "name": "Petite Abeille"
+    }
+}, {
+    "model": "core.location",
+    "pk": 389,
+    "fields": {
+        "latitude": "40.74160768",
+        "longitude": "-73.97846013",
+        "location_type": 8,
+        "name": "Paddy Reillys Pub"
+    }
+}, {
+    "model": "core.location",
+    "pk": 390,
+    "fields": {
+        "latitude": "40.74208524",
+        "longitude": "-73.97820801",
+        "location_type": 8,
+        "name": "Failte Irish Whiskey Bar"
+    }
+}, {
+    "model": "core.location",
+    "pk": 391,
+    "fields": {
+        "latitude": "40.74353824",
+        "longitude": "-73.97733629",
+        "location_type": 8,
+        "name": "Whiskey River"
+    }
+}, {
+    "model": "core.location",
+    "pk": 392,
+    "fields": {
+        "latitude": "40.74366423",
+        "longitude": "-73.97734165",
+        "location_type": 8,
+        "name": "Borders Books"
+    }
+}, {
+    "model": "core.location",
+    "pk": 393,
+    "fields": {
+        "latitude": "40.74432061",
+        "longitude": "-73.97651553",
+        "location_type": 8,
+        "name": "Benjamin Bar & Restaurant"
+    }
+}, {
+    "model": "core.location",
+    "pk": 394,
+    "fields": {
+        "latitude": "40.74451366",
+        "longitude": "-73.97637337",
+        "location_type": 8,
+        "name": "Hook & Ladder Pub"
+    }
+}, {
+    "model": "core.location",
+    "pk": 395,
+    "fields": {
+        "latitude": "40.75045124",
+        "longitude": "-73.9874804",
+        "location_type": 3,
+        "name": "Herald Square Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 396,
+    "fields": {
+        "latitude": "40.74846804",
+        "longitude": "-73.98851037",
+        "location_type": 3,
+        "name": "Greeley Square Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 397,
+    "fields": {
+        "latitude": "40.77314407",
+        "longitude": "-73.98389697",
+        "location_type": 3,
+        "name": "Lincoln Center for Performing Arts"
+    }
+}, {
+    "model": "core.location",
+    "pk": 398,
+    "fields": {
+        "latitude": "40.72533993",
+        "longitude": "-73.99231911",
+        "location_type": 8,
+        "name": "Pizza Atpu"
+    }
+}, {
+    "model": "core.location",
+    "pk": 399,
+    "fields": {
+        "latitude": "40.75813963",
+        "longitude": "-73.97733092",
+        "location_type": 3,
+        "name": "Saks Fifth Avenue"
+    }
+}, {
+    "model": "core.location",
+    "pk": 400,
+    "fields": {
+        "latitude": "40.76193474",
+        "longitude": "-73.96654844",
+        "location_type": 3,
+        "name": "Bloomingdales"
+    }
+}, {
+    "model": "core.location",
+    "pk": 401,
+    "fields": {
+        "latitude": "40.7791847",
+        "longitude": "-73.96267533",
+        "location_type": 8,
+        "name": "Metropolitan Museum of Art"
+    }
+}, {
+    "model": "core.location",
+    "pk": 402,
+    "fields": {
+        "latitude": "40.74977663",
+        "longitude": "-73.99229765",
+        "location_type": 3,
+        "name": "Penn Station~ New Jersey Transit"
+    }
+}, {
+    "model": "core.location",
+    "pk": 403,
+    "fields": {
+        "latitude": "40.75915547",
+        "longitude": "-73.98141861",
+        "location_type": 3,
+        "name": "Rockefeller Center"
+    }
+}, {
+    "model": "core.location",
+    "pk": 404,
+    "fields": {
+        "latitude": "40.71688335",
+        "longitude": "-74.01619077",
+        "location_type": 3,
+        "name": "The Soltaire"
+    }
+}, {
+    "model": "core.location",
+    "pk": 405,
+    "fields": {
+        "latitude": "40.74850462",
+        "longitude": "-74.0083158",
+        "location_type": 3,
+        "name": "Chelsea Piers Golf Club"
+    }
+}, {
+    "model": "core.location",
+    "pk": 406,
+    "fields": {
+        "latitude": "40.71249202",
+        "longitude": "-73.98856401",
+        "location_type": 3,
+        "name": "Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 407,
+    "fields": {
+        "latitude": "40.7110607",
+        "longitude": "-73.99311304",
+        "location_type": 3,
+        "name": "Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 408,
+    "fields": {
+        "latitude": "40.71070287",
+        "longitude": "-73.99691105",
+        "location_type": 3,
+        "name": "Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 409,
+    "fields": {
+        "latitude": "40.75724568",
+        "longitude": "-73.95411372",
+        "location_type": 3,
+        "name": "Roosevelt Island Tramway"
+    }
+}, {
+    "model": "core.location",
+    "pk": 410,
+    "fields": {
+        "latitude": "40.76056341",
+        "longitude": "-74.0031673",
+        "location_type": 3,
+        "name": "NY Waterway Ferry Terminal"
+    }
+}, {
+    "model": "core.location",
+    "pk": 411,
+    "fields": {
+        "latitude": "40.75331214",
+        "longitude": "-73.98248076",
+        "location_type": 3,
+        "name": "New York Public Library Schwarzman Building"
+    }
+}, {
+    "model": "core.location",
+    "pk": 412,
+    "fields": {
+        "latitude": "40.76815922",
+        "longitude": "-73.98249149",
+        "location_type": 3,
+        "name": "Time Warner"
+    }
+}, {
+    "model": "core.location",
+    "pk": 413,
+    "fields": {
+        "latitude": "40.70252098",
+        "longitude": "-74.01407719",
+        "location_type": 3,
+        "name": "Battery Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 414,
+    "fields": {
+        "latitude": "40.70296019",
+        "longitude": "-74.01607275",
+        "location_type": 3,
+        "name": "Castle Clinton"
+    }
+}, {
+    "model": "core.location",
+    "pk": 415,
+    "fields": {
+        "latitude": "40.70471701",
+        "longitude": "-74.01581526",
+        "location_type": 3,
+        "name": "Battery Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 416,
+    "fields": {
+        "latitude": "40.73311252",
+        "longitude": "-74.01066542",
+        "location_type": 3,
+        "name": "Public Toilets"
+    }
+}, {
+    "model": "core.location",
+    "pk": 417,
+    "fields": {
+        "latitude": "40.73633186",
+        "longitude": "-73.9896369",
+        "location_type": 3,
+        "name": "Inside Playground at Union Sq."
+    }
+}, {
+    "model": "core.location",
+    "pk": 418,
+    "fields": {
+        "latitude": "40.73703912",
+        "longitude": "-73.98957253",
+        "location_type": 7,
+        "name": "Barnes & Noble"
+    }
+}, {
+    "model": "core.location",
+    "pk": 419,
+    "fields": {
+        "latitude": "40.77859975",
+        "longitude": "-73.96341562",
+        "location_type": 8,
+        "name": "MET Metropolitan Museum of Art"
+    }
+}, {
+    "model": "core.location",
+    "pk": 420,
+    "fields": {
+        "latitude": "40.77400937",
+        "longitude": "-73.96650553",
+        "location_type": 3,
+        "name": "Conservatory Pond ~ Central Park close to 74th St and 5th ave"
+    }
+}, {
+    "model": "core.location",
+    "pk": 421,
+    "fields": {
+        "latitude": "40.74829735",
+        "longitude": "-73.98926407",
+        "location_type": 8,
+        "name": "AMC Loews"
+    }
+}, {
+    "model": "core.location",
+    "pk": 422,
+    "fields": {
+        "latitude": "40.76312523",
+        "longitude": "-74.00031209",
+        "location_type": 3,
+        "name": "Pier 84 Comfort Station"
+    }
+}, {
+    "model": "core.location",
+    "pk": 423,
+    "fields": {
+        "latitude": "40.77371687",
+        "longitude": "-73.98493767",
+        "location_type": 3,
+        "name": "Riverside Branch New York Public Library"
+    }
+}, {
+    "model": "core.location",
+    "pk": 424,
+    "fields": {
+        "latitude": "40.77371687",
+        "longitude": "-73.98493767",
+        "location_type": 3,
+        "name": "Riverside Branch New York Public Library"
+    }
+}, {
+    "model": "core.location",
+    "pk": 425,
+    "fields": {
+        "latitude": "40.7895748",
+        "longitude": "-73.9739004",
+        "location_type": 3,
+        "name": "Subway"
+    }
+}, {
+    "model": "core.location",
+    "pk": 426,
+    "fields": {
+        "latitude": "40.734795",
+        "longitude": "-73.989691",
+        "location_type": 8,
+        "name": "Panera Bread"
+    }
+}, {
+    "model": "core.location",
+    "pk": 427,
+    "fields": {
+        "latitude": "40.8043894",
+        "longitude": "-73.9167023",
+        "location_type": 3,
+        "name": "Millbrook Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 428,
+    "fields": {
+        "latitude": "40.7109794",
+        "longitude": "-73.996911",
+        "location_type": 3,
+        "name": "Alfred E. Smith Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 429,
+    "fields": {
+        "latitude": "40.7372266",
+        "longitude": "-73.9754115",
+        "location_type": 3,
+        "name": "Asser Levy Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 430,
+    "fields": {
+        "latitude": "40.7355596",
+        "longitude": "-73.9823091",
+        "location_type": 3,
+        "name": "Augustus St. Gaudens"
+    }
+}, {
+    "model": "core.location",
+    "pk": 431,
+    "fields": {
+        "latitude": "40.7925315",
+        "longitude": "-73.9580297",
+        "location_type": 3,
+        "name": "Bendheim Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 432,
+    "fields": {
+        "latitude": "40.7362343",
+        "longitude": "-74.0055799",
+        "location_type": 3,
+        "name": "Bleecker Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 433,
+    "fields": {
+        "latitude": "40.7995165",
+        "longitude": "-73.9662266",
+        "location_type": 3,
+        "name": "Bloomingdale Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 434,
+    "fields": {
+        "latitude": "40.7736102",
+        "longitude": "-73.9457089",
+        "location_type": 3,
+        "name": "Carl Schurz Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 435,
+    "fields": {
+        "latitude": "40.7753743",
+        "longitude": "-73.9437389",
+        "location_type": 3,
+        "name": "Carl Schurz Promenade"
+    }
+}, {
+    "model": "core.location",
+    "pk": 436,
+    "fields": {
+        "latitude": "40.7495978",
+        "longitude": "-74.007597",
+        "location_type": 3,
+        "name": "Chelsea Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 437,
+    "fields": {
+        "latitude": "40.7482974",
+        "longitude": "-74.0019751",
+        "location_type": 3,
+        "name": "Chelsea Recreation Center"
+    }
+}, {
+    "model": "core.location",
+    "pk": 438,
+    "fields": {
+        "latitude": "40.730641",
+        "longitude": "-73.9972973",
+        "location_type": 3,
+        "name": "Cherry Tree Washington Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 439,
+    "fields": {
+        "latitude": "40.7112559",
+        "longitude": "-73.9935637",
+        "location_type": 3,
+        "name": "Coleman Square Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 440,
+    "fields": {
+        "latitude": "40.7157943",
+        "longitude": "-74.0034488",
+        "location_type": 3,
+        "name": "Columbus Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 441,
+    "fields": {
+        "latitude": "40.7390308",
+        "longitude": "-74.0048075",
+        "location_type": 3,
+        "name": "Corporal John A. Seravalli"
+    }
+}, {
+    "model": "core.location",
+    "pk": 442,
+    "fields": {
+        "latitude": "40.7682405",
+        "longitude": "-73.9939713",
+        "location_type": 3,
+        "name": "De Witt Clinton Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 443,
+    "fields": {
+        "latitude": "40.7300719",
+        "longitude": "-74.0026832",
+        "location_type": 3,
+        "name": "Downing Street Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 444,
+    "fields": {
+        "latitude": "40.7253724",
+        "longitude": "-73.9754319",
+        "location_type": 3,
+        "name": "Dry Dock Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 445,
+    "fields": {
+        "latitude": "40.7236158",
+        "longitude": "-73.973012",
+        "location_type": 3,
+        "name": "East River Park (10th Street)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 446,
+    "fields": {
+        "latitude": "40.7141346",
+        "longitude": "-73.9764643",
+        "location_type": 3,
+        "name": "East River Park (Tennis Courts)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 447,
+    "fields": {
+        "latitude": "40.7215638",
+        "longitude": "-73.9747593",
+        "location_type": 3,
+        "name": "East River Park (Track Building)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 448,
+    "fields": {
+        "latitude": "40.7127837",
+        "longitude": "-74.0059413",
+        "location_type": 3,
+        "name": "East River Playround"
+    }
+}, {
+    "model": "core.location",
+    "pk": 449,
+    "fields": {
+        "latitude": "40.7973072",
+        "longitude": "-73.967452",
+        "location_type": 3,
+        "name": "Frederick Douglass Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 450,
+    "fields": {
+        "latitude": "40.719745",
+        "longitude": "-73.980999",
+        "location_type": 3,
+        "name": "Hamilton Fish Park (Recreation Center)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 451,
+    "fields": {
+        "latitude": "40.795361",
+        "longitude": "-73.969415",
+        "location_type": 3,
+        "name": "Happy Warrior Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 452,
+    "fields": {
+        "latitude": "40.7127837",
+        "longitude": "-74.0059413",
+        "location_type": 3,
+        "name": "J. Hood Wright Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 453,
+    "fields": {
+        "latitude": "40.8038356",
+        "longitude": "-73.9618754",
+        "location_type": 3,
+        "name": "Jacob Schiff Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 454,
+    "fields": {
+        "latitude": "40.7700747",
+        "longitude": "-73.9494490999999",
+        "location_type": 3,
+        "name": "John Jay Park & Pool"
+    }
+}, {
+    "model": "core.location",
+    "pk": 455,
+    "fields": {
+        "latitude": "40.7127254",
+        "longitude": "-73.9884923999999",
+        "location_type": 3,
+        "name": "Little Flower Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 456,
+    "fields": {
+        "latitude": "40.8040645",
+        "longitude": "-73.9433098",
+        "location_type": 3,
+        "name": "Marcus Garvey Park (pool)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 457,
+    "fields": {
+        "latitude": "40.7127837",
+        "longitude": "-74.0059413",
+        "location_type": 3,
+        "name": "Martin Luther King Houses"
+    }
+}, {
+    "model": "core.location",
+    "pk": 458,
+    "fields": {
+        "latitude": "40.7127837",
+        "longitude": "-74.0059413",
+        "location_type": 3,
+        "name": "May Matthews Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 459,
+    "fields": {
+        "latitude": "40.7590996",
+        "longitude": "-73.9921448",
+        "location_type": 3,
+        "name": "McCaffrey Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 460,
+    "fields": {
+        "latitude": "40.7784886",
+        "longitude": "-73.9854522",
+        "location_type": 3,
+        "name": "Playground 70"
+    }
+}, {
+    "model": "core.location",
+    "pk": 461,
+    "fields": {
+        "latitude": "40.7127837",
+        "longitude": "-74.0059413",
+        "location_type": 3,
+        "name": "Playground 96 (XCVI)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 462,
+    "fields": {
+        "latitude": "40.7127837",
+        "longitude": "-74.0059413",
+        "location_type": 3,
+        "name": "Renaissance Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 463,
+    "fields": {
+        "latitude": "40.7731644",
+        "longitude": "-73.9936924",
+        "location_type": 3,
+        "name": "Riverside Park (Boat Basin)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 464,
+    "fields": {
+        "latitude": "40.7965253",
+        "longitude": "-73.9741202999999",
+        "location_type": 3,
+        "name": "Riverside Park (Dinosaur Playground)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 465,
+    "fields": {
+        "latitude": "40.7927426",
+        "longitude": "-73.9770935",
+        "location_type": 3,
+        "name": "Rverside Park (Hippo Playground)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 466,
+    "fields": {
+        "latitude": "40.783199",
+        "longitude": "-73.9844789999999",
+        "location_type": 3,
+        "name": "Riverside Park (Neufeld Playground)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 467,
+    "fields": {
+        "latitude": "40.7877029",
+        "longitude": "-73.9811608999999",
+        "location_type": 3,
+        "name": "Riverside Park (River Run Playground)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 468,
+    "fields": {
+        "latitude": "40.7963002",
+        "longitude": "-73.9750671",
+        "location_type": 3,
+        "name": "Riverside Park (Tennis Courts)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 469,
+    "fields": {
+        "latitude": "40.7127837",
+        "longitude": "-74.0059413",
+        "location_type": 3,
+        "name": "Robert Moses Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 470,
+    "fields": {
+        "latitude": "40.7127837",
+        "longitude": "-74.0059413",
+        "location_type": 3,
+        "name": "Roger Morris Park (Morris Jumel Mansion)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 471,
+    "fields": {
+        "latitude": "40.7194471",
+        "longitude": "-74.0015255",
+        "location_type": 3,
+        "name": "Sara D. Roosevelt Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 472,
+    "fields": {
+        "latitude": "40.7849665",
+        "longitude": "-73.9695960999999",
+        "location_type": 3,
+        "name": "Sol Bloom Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 473,
+    "fields": {
+        "latitude": "40.7144902",
+        "longitude": "-73.9846456",
+        "location_type": 3,
+        "name": "Sol Lain Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 474,
+    "fields": {
+        "latitude": "40.7127837",
+        "longitude": "-74.0059413",
+        "location_type": 3,
+        "name": "St Vartan Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 475,
+    "fields": {
+        "latitude": "40.7836314",
+        "longitude": "-73.9430131",
+        "location_type": 3,
+        "name": "Stanley Isaacs"
+    }
+}, {
+    "model": "core.location",
+    "pk": 476,
+    "fields": {
+        "latitude": "40.781839",
+        "longitude": "-73.979285",
+        "location_type": 3,
+        "name": "Tecumseh Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 477,
+    "fields": {
+        "latitude": "40.7933762",
+        "longitude": "-73.9357996",
+        "location_type": 3,
+        "name": "Thomas Jefferson Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 478,
+    "fields": {
+        "latitude": "40.7262831",
+        "longitude": "-73.9818048",
+        "location_type": 3,
+        "name": "Tompkins Square"
+    }
+}, {
+    "model": "core.location",
+    "pk": 479,
+    "fields": {
+        "latitude": "40.7357791",
+        "longitude": "-73.9903772",
+        "location_type": 3,
+        "name": "Union Square Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 480,
+    "fields": {
+        "latitude": "40.7248576",
+        "longitude": "-74.0026518999999",
+        "location_type": 3,
+        "name": "Vesuvio Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 481,
+    "fields": {
+        "latitude": "40.7643734",
+        "longitude": "-73.9616090999999",
+        "location_type": 3,
+        "name": "Wagner Pool"
+    }
+}, {
+    "model": "core.location",
+    "pk": 482,
+    "fields": {
+        "latitude": "40.7714256",
+        "longitude": "-73.9883602",
+        "location_type": 3,
+        "name": "West 59th St Recreation Center & Pool"
+    }
+}, {
+    "model": "core.location",
+    "pk": 483,
+    "fields": {
+        "latitude": "40.7291647",
+        "longitude": "-73.957469",
+        "location_type": 3,
+        "name": "American Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 484,
+    "fields": {
+        "latitude": "40.701655",
+        "longitude": "-73.945645",
+        "location_type": 3,
+        "name": "Bartlett Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 485,
+    "fields": {
+        "latitude": "40.7075321",
+        "longitude": "-73.9644268",
+        "location_type": 3,
+        "name": "Bedford Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 486,
+    "fields": {
+        "latitude": "40.7413029999999",
+        "longitude": "-73.989344",
+        "location_type": 3,
+        "name": "Benson Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 487,
+    "fields": {
+        "latitude": "40.7394876",
+        "longitude": "-73.9826494",
+        "location_type": 3,
+        "name": "Bill Brown Memorial Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 488,
+    "fields": {
+        "latitude": "40.7006337",
+        "longitude": "-73.984823",
+        "location_type": 3,
+        "name": "Bridge Park 2"
+    }
+}, {
+    "model": "core.location",
+    "pk": 489,
+    "fields": {
+        "latitude": "40.7018537",
+        "longitude": "-73.9395809",
+        "location_type": 3,
+        "name": "Bushwick Playground &amp; Pool"
+    }
+}, {
+    "model": "core.location",
+    "pk": 490,
+    "fields": {
+        "latitude": "40.7006729",
+        "longitude": "-73.9877311",
+        "location_type": 3,
+        "name": "Cadman Plaza & Brooklyn War Memorial"
+    }
+}, {
+    "model": "core.location",
+    "pk": 491,
+    "fields": {
+        "latitude": "40.7018957",
+        "longitude": "-73.9369936",
+        "location_type": 3,
+        "name": "Com. John Barry Park & Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 492,
+    "fields": {
+        "latitude": "40.7018957",
+        "longitude": "-73.9369936",
+        "location_type": 3,
+        "name": "Com. John Barry Park & Playground (Athletic Area)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 493,
+    "fields": {
+        "latitude": "40.7478166",
+        "longitude": "-73.9966529",
+        "location_type": 3,
+        "name": "Coney Island"
+    }
+}, {
+    "model": "core.location",
+    "pk": 494,
+    "fields": {
+        "latitude": "40.7522407",
+        "longitude": "-73.9956900999999",
+        "location_type": 3,
+        "name": "Coney Island"
+    }
+}, {
+    "model": "core.location",
+    "pk": 495,
+    "fields": {
+        "latitude": "40.7410712",
+        "longitude": "-74.0015593",
+        "location_type": 3,
+        "name": "Coney Island Beach"
+    }
+}, {
+    "model": "core.location",
+    "pk": 496,
+    "fields": {
+        "latitude": "40.7446311",
+        "longitude": "-73.9989762999999",
+        "location_type": 3,
+        "name": "Coney Island Beach"
+    }
+}, {
+    "model": "core.location",
+    "pk": 497,
+    "fields": {
+        "latitude": "40.7159722",
+        "longitude": "-73.9371777",
+        "location_type": 3,
+        "name": "Cooper Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 498,
+    "fields": {
+        "latitude": "40.70029",
+        "longitude": "-73.929035",
+        "location_type": 3,
+        "name": "Fermi Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 499,
+    "fields": {
+        "latitude": "40.766016",
+        "longitude": "-73.9852394",
+        "location_type": 3,
+        "name": "Fox Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 500,
+    "fields": {
+        "latitude": "40.7672781",
+        "longitude": "-73.9841948999999",
+        "location_type": 3,
+        "name": "Harry Maze Memorial Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 501,
+    "fields": {
+        "latitude": "40.702334",
+        "longitude": "-73.9528659999999",
+        "location_type": 3,
+        "name": "Hattie Carthan Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 502,
+    "fields": {
+        "latitude": "40.7123596",
+        "longitude": "-73.9848951999999",
+        "location_type": 3,
+        "name": "Jackie Robinson Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 503,
+    "fields": {
+        "latitude": "40.7099218",
+        "longitude": "-73.9591074",
+        "location_type": 3,
+        "name": "La Guardia Playground West"
+    }
+}, {
+    "model": "core.location",
+    "pk": 504,
+    "fields": {
+        "latitude": "40.7665612",
+        "longitude": "-73.9629317",
+        "location_type": 3,
+        "name": "Leif Ericson Park & Square"
+    }
+}, {
+    "model": "core.location",
+    "pk": 505,
+    "fields": {
+        "latitude": "40.701957",
+        "longitude": "-73.9238859999999",
+        "location_type": 3,
+        "name": "Maria Hernandez Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 506,
+    "fields": {
+        "latitude": "40.7457289",
+        "longitude": "-73.9801982",
+        "location_type": 3,
+        "name": "Marine Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 507,
+    "fields": {
+        "latitude": "40.708466",
+        "longitude": "-73.943466",
+        "location_type": 3,
+        "name": "Martinez Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 508,
+    "fields": {
+        "latitude": "40.7233309999999",
+        "longitude": "-73.951729",
+        "location_type": 3,
+        "name": "McCarren Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 509,
+    "fields": {
+        "latitude": "40.7035753",
+        "longitude": "-74.0131223",
+        "location_type": 3,
+        "name": "McLaughlin Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 510,
+    "fields": {
+        "latitude": "40.7313396",
+        "longitude": "-73.9825657",
+        "location_type": 3,
+        "name": "Mellet Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 511,
+    "fields": {
+        "latitude": "40.7153113",
+        "longitude": "-73.9604365",
+        "location_type": 3,
+        "name": "Metropolitan Pool"
+    }
+}, {
+    "model": "core.location",
+    "pk": 512,
+    "fields": {
+        "latitude": "40.724039",
+        "longitude": "-73.9432669",
+        "location_type": 3,
+        "name": "Monsignor Mcgolrick Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 513,
+    "fields": {
+        "latitude": "40.742254",
+        "longitude": "-74.000703",
+        "location_type": 3,
+        "name": "Paul W. Kolbert Park/Rachel Haber Cohen Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 514,
+    "fields": {
+        "latitude": "40.7539319",
+        "longitude": "-73.9721220999999",
+        "location_type": 3,
+        "name": "PS 1 Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 515,
+    "fields": {
+        "latitude": "40.7093332",
+        "longitude": "-73.9558951999999",
+        "location_type": 3,
+        "name": "Rodney Playground South"
+    }
+}, {
+    "model": "core.location",
+    "pk": 516,
+    "fields": {
+        "latitude": "40.7176788",
+        "longitude": "-74.0057724999999",
+        "location_type": 3,
+        "name": "Sternberg Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 517,
+    "fields": {
+        "latitude": "40.7616616",
+        "longitude": "-73.9865631",
+        "location_type": 3,
+        "name": "Tilden Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 518,
+    "fields": {
+        "latitude": "40.7329396",
+        "longitude": "-73.9980147999999",
+        "location_type": 3,
+        "name": "West 8nd St CS"
+    }
+}, {
+    "model": "core.location",
+    "pk": 519,
+    "fields": {
+        "latitude": "40.7173837",
+        "longitude": "-73.9914666999999",
+        "location_type": 3,
+        "name": "William Sheridan Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 520,
+    "fields": {
+        "latitude": "40.804585",
+        "longitude": "-73.9667670999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 521,
+    "fields": {
+        "latitude": "40.777652",
+        "longitude": "-73.9544159999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 522,
+    "fields": {
+        "latitude": "40.7666592",
+        "longitude": "-73.9624663999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 523,
+    "fields": {
+        "latitude": "40.7260258",
+        "longitude": "-73.9965422",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 524,
+    "fields": {
+        "latitude": "40.722675",
+        "longitude": "-73.997427",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 525,
+    "fields": {
+        "latitude": "40.7151804",
+        "longitude": "-74.0109916999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 526,
+    "fields": {
+        "latitude": "40.7416969999999",
+        "longitude": "-73.993266",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 527,
+    "fields": {
+        "latitude": "40.7311439",
+        "longitude": "-73.9934291999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 528,
+    "fields": {
+        "latitude": "40.7067469",
+        "longitude": "-74.0070860999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 529,
+    "fields": {
+        "latitude": "40.7340316",
+        "longitude": "-73.9889494999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 530,
+    "fields": {
+        "latitude": "40.7336016",
+        "longitude": "-73.9999824999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 531,
+    "fields": {
+        "latitude": "40.7529192",
+        "longitude": "-73.9892039",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 532,
+    "fields": {
+        "latitude": "40.7292318999999",
+        "longitude": "-73.9886503999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 533,
+    "fields": {
+        "latitude": "40.7260258",
+        "longitude": "-73.9965422",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 534,
+    "fields": {
+        "latitude": "40.7540452",
+        "longitude": "-73.9813838",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 535,
+    "fields": {
+        "latitude": "40.7523592999999",
+        "longitude": "-73.9939028",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 536,
+    "fields": {
+        "latitude": "40.7045399",
+        "longitude": "-74.0130866",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 537,
+    "fields": {
+        "latitude": "40.7561632",
+        "longitude": "-73.9807412",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 538,
+    "fields": {
+        "latitude": "40.7454761",
+        "longitude": "-73.9828726",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 539,
+    "fields": {
+        "latitude": "40.742054",
+        "longitude": "-74.0012459999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 540,
+    "fields": {
+        "latitude": "40.7594973",
+        "longitude": "-73.9915287999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 541,
+    "fields": {
+        "latitude": "40.7098119",
+        "longitude": "-74.0064049",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 542,
+    "fields": {
+        "latitude": "40.73731",
+        "longitude": "-73.9899619999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 543,
+    "fields": {
+        "latitude": "40.7399255",
+        "longitude": "-73.9850622",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 544,
+    "fields": {
+        "latitude": "40.7281648",
+        "longitude": "-74.0051398",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 545,
+    "fields": {
+        "latitude": "40.7789507",
+        "longitude": "-73.9810891999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 546,
+    "fields": {
+        "latitude": "40.7592334",
+        "longitude": "-73.9822861999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 547,
+    "fields": {
+        "latitude": "40.7630794",
+        "longitude": "-73.9852664",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 548,
+    "fields": {
+        "latitude": "40.7658676",
+        "longitude": "-73.9824871999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 549,
+    "fields": {
+        "latitude": "40.7513248",
+        "longitude": "-73.9808575",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 550,
+    "fields": {
+        "latitude": "40.7575374",
+        "longitude": "-73.9741793",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 551,
+    "fields": {
+        "latitude": "40.7481829",
+        "longitude": "-73.9850635",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 552,
+    "fields": {
+        "latitude": "40.7460757",
+        "longitude": "-73.9939534999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 553,
+    "fields": {
+        "latitude": "40.7145629",
+        "longitude": "-74.0063756",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 554,
+    "fields": {
+        "latitude": "40.763625",
+        "longitude": "-73.9777335999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 555,
+    "fields": {
+        "latitude": "40.7883739",
+        "longitude": "-73.9766343",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 556,
+    "fields": {
+        "latitude": "40.7659528",
+        "longitude": "-73.9569808999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 557,
+    "fields": {
+        "latitude": "40.733819",
+        "longitude": "-73.9933838",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 558,
+    "fields": {
+        "latitude": "40.7364299",
+        "longitude": "-73.9970865999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 559,
+    "fields": {
+        "latitude": "40.7443502",
+        "longitude": "-73.9881073999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 560,
+    "fields": {
+        "latitude": "40.744214",
+        "longitude": "-73.9757918",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 561,
+    "fields": {
+        "latitude": "40.7527127",
+        "longitude": "-73.9834508999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 562,
+    "fields": {
+        "latitude": "40.7571834",
+        "longitude": "-73.9707338",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 563,
+    "fields": {
+        "latitude": "40.7626599",
+        "longitude": "-73.9661959999999",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 564,
+    "fields": {
+        "latitude": "40.786191",
+        "longitude": "-73.977863",
+        "location_type": 1,
+        "name": "Chipotle Mexican Grill"
+    }
+}, {
+    "model": "core.location",
+    "pk": 565,
+    "fields": {
+        "latitude": "40.7860511",
+        "longitude": "-73.9787349",
+        "location_type": 7,
+        "name": "barnes & nobles"
+    }
+}, {
+    "model": "core.location",
+    "pk": 566,
+    "fields": {
+        "latitude": "40.7790608",
+        "longitude": "-73.955106",
+        "location_type": 7,
+        "name": "barnes & nobles"
+    }
+}, {
+    "model": "core.location",
+    "pk": 567,
+    "fields": {
+        "latitude": "40.7556905",
+        "longitude": "-73.9788945999999",
+        "location_type": 7,
+        "name": "barnes & nobles"
+    }
+}, {
+    "model": "core.location",
+    "pk": 568,
+    "fields": {
+        "latitude": "40.7346942",
+        "longitude": "-73.9905871",
+        "location_type": 8,
+        "name": "nordstrom rack"
+    }
+}, {
+    "model": "core.location",
+    "pk": 569,
+    "fields": {
+        "latitude": "40.7639807",
+        "longitude": "-73.9716177",
+        "location_type": 8,
+        "name": "crate and barrel"
+    }
+}, {
+    "model": "core.location",
+    "pk": 570,
+    "fields": {
+        "latitude": "40.7684141",
+        "longitude": "-73.9827037",
+        "location_type": 8,
+        "name": "whole foods"
+    }
+}, {
+    "model": "core.location",
+    "pk": 571,
+    "fields": {
+        "latitude": "40.7598051",
+        "longitude": "-73.9665145999999",
+        "location_type": 8,
+        "name": "whole foods"
+    }
+}, {
+    "model": "core.location",
+    "pk": 572,
+    "fields": {
+        "latitude": "40.7238111",
+        "longitude": "-73.9923524",
+        "location_type": 8,
+        "name": "whole foods"
+    }
+}, {
+    "model": "core.location",
+    "pk": 573,
+    "fields": {
+        "latitude": "40.7450809",
+        "longitude": "-73.9953522999999",
+        "location_type": 8,
+        "name": "whole foods"
+    }
+}, {
+    "model": "core.location",
+    "pk": 574,
+    "fields": {
+        "latitude": "40.7224201999999",
+        "longitude": "-73.9824775",
+        "location_type": 8,
+        "name": "whole foods"
+    }
+}, {
+    "model": "core.location",
+    "pk": 575,
+    "fields": {
+        "latitude": "40.7954009",
+        "longitude": "-73.9658885",
+        "location_type": 8,
+        "name": "whole foods"
+    }
+}, {
+    "model": "core.location",
+    "pk": 576,
+    "fields": {
+        "latitude": "40.7637931",
+        "longitude": "-73.9722014",
+        "location_type": 8,
+        "name": "apple store"
+    }
+}, {
+    "model": "core.location",
+    "pk": 577,
+    "fields": {
+        "latitude": "40.7751164",
+        "longitude": "-73.982656",
+        "location_type": 8,
+        "name": "apple store"
+    }
+}, {
+    "model": "core.location",
+    "pk": 578,
+    "fields": {
+        "latitude": "40.7250796",
+        "longitude": "-73.9990616999999",
+        "location_type": 8,
+        "name": "apple store"
+    }
+}, {
+    "model": "core.location",
+    "pk": 579,
+    "fields": {
+        "latitude": "40.7412225",
+        "longitude": "-74.0055041",
+        "location_type": 8,
+        "name": "apple store"
+    }
+}, {
+    "model": "core.location",
+    "pk": 580,
+    "fields": {
+        "latitude": "40.7616122",
+        "longitude": "-73.9740186999999",
+        "location_type": 8,
+        "name": "henri bendel"
+    }
+}, {
+    "model": "core.location",
+    "pk": 581,
+    "fields": {
+        "latitude": "40.7022753",
+        "longitude": "-73.93249",
+        "location_type": 8,
+        "name": "NYC Police Department"
+    }
+}, {
+    "model": "core.location",
+    "pk": 582,
+    "fields": {
+        "latitude": "40.7141052",
+        "longitude": "-74.0038668",
+        "location_type": 8,
+        "name": "NYC Police Department"
+    }
+}, {
+    "model": "core.location",
+    "pk": 583,
+    "fields": {
+        "latitude": "40.7163623",
+        "longitude": "-73.9839341",
+        "location_type": 8,
+        "name": "NYC Police Department"
+    }
+}, {
+    "model": "core.location",
+    "pk": 584,
+    "fields": {
+        "latitude": "40.736597",
+        "longitude": "-73.9831950999999",
+        "location_type": 8,
+        "name": "NYC Police Department"
+    }
+}, {
+    "model": "core.location",
+    "pk": 585,
+    "fields": {
+        "latitude": "40.716188",
+        "longitude": "-73.9974869999999",
+        "location_type": 8,
+        "name": "NYC Police Department"
+    }
+}, {
+    "model": "core.location",
+    "pk": 586,
+    "fields": {
+        "latitude": "40.7264639",
+        "longitude": "-73.9879326999999",
+        "location_type": 8,
+        "name": "NYC Police Department"
+    }
+}, {
+    "model": "core.location",
+    "pk": 587,
+    "fields": {
+        "latitude": "40.7574272",
+        "longitude": "-73.9892421999999",
+        "location_type": 8,
+        "name": "The Westin New York"
+    }
+}, {
+    "model": "core.location",
+    "pk": 588,
+    "fields": {
+        "latitude": "40.735547",
+        "longitude": "-73.9942972",
+        "location_type": 8,
+        "name": "The New School"
+    }
+}, {
+    "model": "core.location",
+    "pk": 589,
+    "fields": {
+        "latitude": "40.7370364",
+        "longitude": "-73.9923989",
+        "location_type": 8,
+        "name": "Foundation Center"
+    }
+}, {
+    "model": "core.location",
+    "pk": 590,
+    "fields": {
+        "latitude": "40.715531",
+        "longitude": "-74.0114691",
+        "location_type": 8,
+        "name": "Bed Bath & Beyond"
+    }
+}, {
+    "model": "core.location",
+    "pk": 591,
+    "fields": {
+        "latitude": "40.740167",
+        "longitude": "-73.9942681999999",
+        "location_type": 8,
+        "name": "Bed Bath & Beyond"
+    }
+}, {
+    "model": "core.location",
+    "pk": 592,
+    "fields": {
+        "latitude": "40.772511",
+        "longitude": "-73.9817838",
+        "location_type": 8,
+        "name": "Bed Bath & Beyond"
+    }
+}, {
+    "model": "core.location",
+    "pk": 593,
+    "fields": {
+        "latitude": "40.7608662",
+        "longitude": "-73.9610606",
+        "location_type": 8,
+        "name": "Bed Bath & Beyond"
+    }
+}, {
+    "model": "core.location",
+    "pk": 594,
+    "fields": {
+        "latitude": "40.7556198",
+        "longitude": "-73.9823198",
+        "location_type": 8,
+        "name": "Royalton Hotel"
+    }
+}, {
+    "model": "core.location",
+    "pk": 595,
+    "fields": {
+        "latitude": "40.7220205",
+        "longitude": "-74.0043036999999",
+        "location_type": 8,
+        "name": "Soho Grand Hotel"
+    }
+}, {
+    "model": "core.location",
+    "pk": 596,
+    "fields": {
+        "latitude": "40.7194449",
+        "longitude": "-74.0058938999999",
+        "location_type": 8,
+        "name": "J. Crew"
+    }
+}, {
+    "model": "core.location",
+    "pk": 597,
+    "fields": {
+        "latitude": "40.737633",
+        "longitude": "-73.9922022",
+        "location_type": 8,
+        "name": "J. Crew"
+    }
+}, {
+    "model": "core.location",
+    "pk": 598,
+    "fields": {
+        "latitude": "40.7684141",
+        "longitude": "-73.9827037",
+        "location_type": 8,
+        "name": "J. Crew"
+    }
+}, {
+    "model": "core.location",
+    "pk": 599,
+    "fields": {
+        "latitude": "40.7677792",
+        "longitude": "-73.9681160999999",
+        "location_type": 8,
+        "name": "J. Crew"
+    }
+}, {
+    "model": "core.location",
+    "pk": 600,
+    "fields": {
+        "latitude": "40.759",
+        "longitude": "-73.979",
+        "location_type": 8,
+        "name": "J. Crew"
+    }
+}, {
+    "model": "core.location",
+    "pk": 601,
+    "fields": {
+        "latitude": "40.750354",
+        "longitude": "-73.9734632999999",
+        "location_type": 8,
+        "name": "Grand Hyatt"
+    }
+}, {
+    "model": "core.location",
+    "pk": 602,
+    "fields": {
+        "latitude": "40.7394093",
+        "longitude": "-73.9756237",
+        "location_type": 8,
+        "name": "Bellevue Hospital Center"
+    }
+}, {
+    "model": "core.location",
+    "pk": 603,
+    "fields": {
+        "latitude": "40.7900581",
+        "longitude": "-73.9538600999999",
+        "location_type": 8,
+        "name": "Mount Sinai Hospital"
+    }
+}, {
+    "model": "core.location",
+    "pk": 604,
+    "fields": {
+        "latitude": "40.72504",
+        "longitude": "-73.9835299999999",
+        "location_type": 8,
+        "name": "New York Methodist Hospital"
+    }
+}, {
+    "model": "core.location",
+    "pk": 605,
+    "fields": {
+        "latitude": "40.7157714",
+        "longitude": "-74.0052273",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 606,
+    "fields": {
+        "latitude": "40.7082468",
+        "longitude": "-74.0049577",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 607,
+    "fields": {
+        "latitude": "40.7093625",
+        "longitude": "-74.0099837",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 608,
+    "fields": {
+        "latitude": "40.7161841",
+        "longitude": "-74.0106827999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 609,
+    "fields": {
+        "latitude": "40.7185119",
+        "longitude": "-74.001164",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 610,
+    "fields": {
+        "latitude": "40.714946",
+        "longitude": "-73.9972829999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 611,
+    "fields": {
+        "latitude": "40.712947",
+        "longitude": "-73.9892529999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 612,
+    "fields": {
+        "latitude": "40.718942",
+        "longitude": "-73.988294",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 613,
+    "fields": {
+        "latitude": "40.7288080999999",
+        "longitude": "-74.0050378",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 614,
+    "fields": {
+        "latitude": "40.730751",
+        "longitude": "-74.0010949999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 615,
+    "fields": {
+        "latitude": "40.7291149",
+        "longitude": "-73.9932840999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 616,
+    "fields": {
+        "latitude": "40.7257658",
+        "longitude": "-73.9866260999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 617,
+    "fields": {
+        "latitude": "40.7309045",
+        "longitude": "-73.9823653999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 618,
+    "fields": {
+        "latitude": "40.7374344",
+        "longitude": "-73.9967848",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 619,
+    "fields": {
+        "latitude": "40.737081",
+        "longitude": "-73.990802",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 620,
+    "fields": {
+        "latitude": "40.741901",
+        "longitude": "-73.993191",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 621,
+    "fields": {
+        "latitude": "40.740535",
+        "longitude": "-73.9879169999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 622,
+    "fields": {
+        "latitude": "40.7370236999999",
+        "longitude": "-73.9794772999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 623,
+    "fields": {
+        "latitude": "40.7429936",
+        "longitude": "-73.9840302",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 624,
+    "fields": {
+        "latitude": "40.745044",
+        "longitude": "-73.9786009",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 625,
+    "fields": {
+        "latitude": "40.747948",
+        "longitude": "-73.9845139999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 626,
+    "fields": {
+        "latitude": "40.749052",
+        "longitude": "-73.9957489999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 627,
+    "fields": {
+        "latitude": "40.7507779",
+        "longitude": "-73.9867259999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 628,
+    "fields": {
+        "latitude": "40.7514577",
+        "longitude": "-73.980451",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 629,
+    "fields": {
+        "latitude": "40.7509948",
+        "longitude": "-73.9906333",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 630,
+    "fields": {
+        "latitude": "40.7504739",
+        "longitude": "-73.99058",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 631,
+    "fields": {
+        "latitude": "40.7529521",
+        "longitude": "-73.9803375",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 632,
+    "fields": {
+        "latitude": "40.7476408",
+        "longitude": "-73.9972555",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 633,
+    "fields": {
+        "latitude": "40.75248",
+        "longitude": "-73.992837",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 634,
+    "fields": {
+        "latitude": "40.7546636",
+        "longitude": "-73.9879747",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 635,
+    "fields": {
+        "latitude": "40.7561728",
+        "longitude": "-73.9778117999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 636,
+    "fields": {
+        "latitude": "40.790025",
+        "longitude": "-73.9462039999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 637,
+    "fields": {
+        "latitude": "40.794624",
+        "longitude": "-73.9716694",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 638,
+    "fields": {
+        "latitude": "40.784705",
+        "longitude": "-73.947161",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 639,
+    "fields": {
+        "latitude": "40.7998912",
+        "longitude": "-73.9675866",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 640,
+    "fields": {
+        "latitude": "40.77813",
+        "longitude": "-73.9544655999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 641,
+    "fields": {
+        "latitude": "40.793812",
+        "longitude": "-73.942651",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 642,
+    "fields": {
+        "latitude": "40.7856163999999",
+        "longitude": "-73.979078",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 643,
+    "fields": {
+        "latitude": "40.7986343",
+        "longitude": "-73.9398709",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 644,
+    "fields": {
+        "latitude": "40.7779191",
+        "longitude": "-73.9825667999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 645,
+    "fields": {
+        "latitude": "40.8043813",
+        "longitude": "-73.9374062",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 646,
+    "fields": {
+        "latitude": "40.765887",
+        "longitude": "-73.956951",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 647,
+    "fields": {
+        "latitude": "40.760891",
+        "longitude": "-73.9674549999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 648,
+    "fields": {
+        "latitude": "40.7660501",
+        "longitude": "-73.9833663",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 649,
+    "fields": {
+        "latitude": "40.7622594",
+        "longitude": "-73.9837508",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 650,
+    "fields": {
+        "latitude": "40.756099",
+        "longitude": "-73.9649039999999",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 651,
+    "fields": {
+        "latitude": "40.763422",
+        "longitude": "-73.9893351",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 652,
+    "fields": {
+        "latitude": "40.7577775",
+        "longitude": "-73.9819653",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 653,
+    "fields": {
+        "latitude": "40.7628671",
+        "longitude": "-73.9874095",
+        "location_type": 1,
+        "name": "McDonalds"
+    }
+}, {
+    "model": "core.location",
+    "pk": 654,
+    "fields": {
+        "latitude": "40.7298842",
+        "longitude": "-73.996078",
+        "location_type": 8,
+        "name": "Pless Hall"
+    }
+}, {
+    "model": "core.location",
+    "pk": 655,
+    "fields": {
+        "latitude": "40.7097029",
+        "longitude": "-74.0070071",
+        "location_type": 1,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 656,
+    "fields": {
+        "latitude": "40.7096373",
+        "longitude": "-74.0119116999999",
+        "location_type": 1,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 657,
+    "fields": {
+        "latitude": "40.7161534",
+        "longitude": "-74.0050107",
+        "location_type": 1,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 658,
+    "fields": {
+        "latitude": "40.7183138",
+        "longitude": "-73.9865666",
+        "location_type": 1,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 659,
+    "fields": {
+        "latitude": "40.7070766",
+        "longitude": "-74.0038862",
+        "location_type": 1,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 660,
+    "fields": {
+        "latitude": "40.750155",
+        "longitude": "-73.988152",
+        "location_type": 1,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 661,
+    "fields": {
+        "latitude": "40.752056",
+        "longitude": "-73.9899118",
+        "location_type": 1,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 662,
+    "fields": {
+        "latitude": "40.7501845",
+        "longitude": "-73.9832758",
+        "location_type": 1,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 663,
+    "fields": {
+        "latitude": "40.7580219",
+        "longitude": "-73.9909139999999",
+        "location_type": 1,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 664,
+    "fields": {
+        "latitude": "40.7780962",
+        "longitude": "-73.9530227999999",
+        "location_type": 1,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 665,
+    "fields": {
+        "latitude": "40.7295089",
+        "longitude": "-73.9927664",
+        "location_type": 1,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 666,
+    "fields": {
+        "latitude": "40.7324792",
+        "longitude": "-73.9961887",
+        "location_type": 1,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 667,
+    "fields": {
+        "latitude": "40.7905455",
+        "longitude": "-73.9457927",
+        "location_type": 1,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 668,
+    "fields": {
+        "latitude": "40.7695029",
+        "longitude": "-73.9164713999999",
+        "location_type": 1,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 669,
+    "fields": {
+        "latitude": "40.7982969",
+        "longitude": "-73.9414653",
+        "location_type": 1,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 670,
+    "fields": {
+        "latitude": "40.7925338",
+        "longitude": "-73.951042",
+        "location_type": 1,
+        "name": "Burger King"
+    }
+}, {
+    "model": "core.location",
+    "pk": 671,
+    "fields": {
+        "latitude": "40.7298171",
+        "longitude": "-73.9942236",
+        "location_type": 8,
+        "name": "kimball Block (NYU)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 672,
+    "fields": {
+        "latitude": "40.7298092",
+        "longitude": "-73.9880819",
+        "location_type": 8,
+        "name": "Barney Building (NYU)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 673,
+    "fields": {
+        "latitude": "40.7310431",
+        "longitude": "-73.9957041",
+        "location_type": 8,
+        "name": "Ehrenkranz Silver School of Social Work (NYU)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 674,
+    "fields": {
+        "latitude": "40.7332774",
+        "longitude": "-73.9946310999999",
+        "location_type": 8,
+        "name": "Bronfman Center (NYU)"
+    }
+}, {
+    "model": "core.location",
+    "pk": 675,
+    "fields": {
+        "latitude": "40.7550935",
+        "longitude": "-73.9265515",
+        "location_type": 3,
+        "name": "Arrow Community Garden"
+    }
+}, {
+    "model": "core.location",
+    "pk": 676,
+    "fields": {
+        "latitude": "40.7609826",
+        "longitude": "-73.9907693",
+        "location_type": 3,
+        "name": "Astoria Heights Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 677,
+    "fields": {
+        "latitude": "40.7694041",
+        "longitude": "-73.9224181999999",
+        "location_type": 3,
+        "name": "Athens Sq"
+    }
+}, {
+    "model": "core.location",
+    "pk": 678,
+    "fields": {
+        "latitude": "40.7863952",
+        "longitude": "-73.9779798999999",
+        "location_type": 3,
+        "name": "Clement Clark Moore Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 679,
+    "fields": {
+        "latitude": "40.758804",
+        "longitude": "-73.9381111",
+        "location_type": 3,
+        "name": "Dutch Kills Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 680,
+    "fields": {
+        "latitude": "40.7682567",
+        "longitude": "-73.9361858",
+        "location_type": 3,
+        "name": "Hallets Cove Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 681,
+    "fields": {
+        "latitude": "40.798935",
+        "longitude": "-73.9363568",
+        "location_type": 3,
+        "name": "Hemon MacNeil Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 682,
+    "fields": {
+        "latitude": "40.7646285",
+        "longitude": "-73.9322469",
+        "location_type": 3,
+        "name": "Kennedy Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 683,
+    "fields": {
+        "latitude": "40.7468806",
+        "longitude": "-73.9208077999999",
+        "location_type": 3,
+        "name": "Lou Lodati Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 684,
+    "fields": {
+        "latitude": "40.7472245",
+        "longitude": "-73.9488888",
+        "location_type": 3,
+        "name": "Murray Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 685,
+    "fields": {
+        "latitude": "40.7414895",
+        "longitude": "-73.9218882999999",
+        "location_type": 3,
+        "name": "Noonan Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 686,
+    "fields": {
+        "latitude": "40.7563923",
+        "longitude": "-73.9487171",
+        "location_type": 3,
+        "name": "Queensbridge Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 687,
+    "fields": {
+        "latitude": "40.7664366",
+        "longitude": "-73.9409924",
+        "location_type": 3,
+        "name": "Rainey Park"
+    }
+}, {
+    "model": "core.location",
+    "pk": 688,
+    "fields": {
+        "latitude": "40.744009",
+        "longitude": "-73.9994219999999",
+        "location_type": 3,
+        "name": "Triborough Bridge Playground A"
+    }
+}, {
+    "model": "core.location",
+    "pk": 689,
+    "fields": {
+        "latitude": "40.7413029999999",
+        "longitude": "-73.989344",
+        "location_type": 3,
+        "name": "Triborough Bridge Playground B"
+    }
+}, {
+    "model": "core.location",
+    "pk": 690,
+    "fields": {
+        "latitude": "40.7517354",
+        "longitude": "-73.9866769",
+        "location_type": 3,
+        "name": "Woodtree Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 691,
+    "fields": {
+        "latitude": "40.7218903",
+        "longitude": "-73.9855585999999",
+        "location_type": 3,
+        "name": "Markham Playground"
+    }
+}, {
+    "model": "core.location",
+    "pk": 692,
+    "fields": {
+        "latitude": "40.755472",
+        "longitude": "-73.9782308",
+        "location_type": 4,
+        "name": "Gregory&#39;s Coffee"
+    }
+}, {
+    "model": "core.location",
+    "pk": 693,
+    "fields": {
+        "latitude": "40.7522951",
+        "longitude": "-73.9780658",
+        "location_type": 8,
+        "name": "Home Depot"
+    }
+}, {
+    "model": "core.location",
+    "pk": 694,
+    "fields": {
+        "latitude": "40.7435017",
+        "longitude": "-74.0068755",
+        "location_type": 3,
+        "name": "High Line Bathroom at W 16th St"
+    }
+}, {
+    "model": "core.location",
+    "pk": 695,
+    "fields": {
+        "latitude": "40.7396384",
+        "longitude": "-74.0083238",
+        "location_type": 3,
+        "name": "High Line Bathroom at Gansevoort St"
+    }
+}, {
+    "model": "core.location",
+    "pk": 696,
+    "fields": {
+        "latitude": "40.7738547",
+        "longitude": "-73.9503411",
+        "location_type": 1,
+        "name": "McDonald&#39;s"
+    }
+}, {
+    "model": "core.location",
+    "pk": 697,
+    "fields": {
+        "latitude": "40.753877",
+        "longitude": "-73.969015",
+        "location_type": 3,
+        "name": "Morton Williams"
+    }
+}, {
+    "model": "core.location",
+    "pk": 698,
+    "fields": {
+        "latitude": "40.7308646",
+        "longitude": "-73.9926571",
+        "location_type": 1,
+        "name": "Famiglia Pizza"
+    }
+}]
